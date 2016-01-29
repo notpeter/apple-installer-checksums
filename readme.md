@@ -25,7 +25,7 @@ Got access to old versions of Apple installers you know are legit? Submit a pull
 
 | Version              | SHA1 Checksum                              | Filename                                 |
 | ---------------------| ------------------------------------------ | ---------------------------------------- |
-| 10.5.0 Leopard       | `67ab755a3604cd767787fed56150bdb566358f69` | leopard_9a581_userdvd.dmg`
+| 10.5.0 Leopard       | `67ab755a3604cd767787fed56150bdb566358f69` | leopard_9a581_userdvd.dmg
 | 10.6.0 Snow Leopard  | `f8fa177e4be9a69f87be23b83c30e0c8eedacf5b` | mac_os_x_v10.6_build_10a432_user_dvd.dmg
 | 10.7.5 Lion          | `a044fc01fa75b1f255dbdd6ea4fefa30cef147b0` | InstallESD.dmg
 | 10.8.0 Mountain Lion | `e5dd2bf5560033cade7dd7d7da5ceec49f701b0e` | InstallESD.dmg
