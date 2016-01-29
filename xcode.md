@@ -54,8 +54,8 @@ Got access to old versions of Apple installers you know are legit? Submit a pull
 
 | SHA1 | Version | Filename |
 | ------- | ---- | -------- |
-| `662746e2cf6788f9add7fab80aa28c2f5462d665` | [XCode Command Line Tools 6.1.1 for 10.9][cli-6.1.1-10.9] | commandlinetoolsosx10.9forxcode6.1.1.dmg
-| `5a6f9d1eb02bce4f522e6f93e22713a94daa600d` | [XCode Command Line Tools 6.1.1 for 10.10][cli-6.1.1-10.10] | commandlinetoolsosx10.10forxcode6.1.1.dmg
+| `662746e2cf6788f9add7fab80aa28c2f5462d665` | [CLI Tools 6.1.1 for 10.9][cli-6.1.1-10.9] | commandlinetoolsosx10.9forxcode6.1.1.dmg
+| `5a6f9d1eb02bce4f522e6f93e22713a94daa600d` | [CLI Tools 6.1.1 for 10.10][cli-6.1.1-10.10] | commandlinetoolsosx10.10forxcode6.1.1.dmg
 
  [cli-6.1.1-10.9]: http://developer.apple.com/devcenter/download.action?path=/Developer_Tools/command_line_tools_os_x_10.9_for_xcode__xcode_6.1.1/commandlinetoolsosx10.9forxcode6.1.1.dmg
  [cli-6.1.1-10.10]: http://developer.apple.com/devcenter/download.action?path=/Developer_Tools/command_line_tools_os_x_10.10_for_xcode__xcode_6.1.1/commandlinetoolsosx10.10forxcode6.1.1.dmg
