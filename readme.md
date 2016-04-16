@@ -44,3 +44,4 @@ Got access to old versions of Apple installers you know are legit? Submit a pull
 | 10.11.1 El Capitan   | `306a080c07e293b6765ba950bab213572704acec` | InstallESD.dmg
 | 10.11.2 El Capitan   | `2b11b8b618a2e5100507c3c432363081db65c4c8` | InstallESD.dmg
 | 10.11.3 El Capitan   | `e4311d93127d0668372b32e5342f3b455b6bc9bd` | InstallESD.dmg
+| 10.11.4 El Capitan   | `f6292573395b46e8110be6077fd4827409bc948b` | InstallESD.dmg
