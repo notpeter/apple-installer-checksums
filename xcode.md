@@ -1,4 +1,4 @@
-# Apple XCode Installer Checksums
+# Apple Xcode Installer Checksums
 
 
 ## What?
@@ -6,7 +6,7 @@
 SHA1 checksums of Apple's installers for:
 
  * [Mac OSX InstallESD.dmg](readme.md)
- * [XCode Installer DMGs](xcode.md)
+ * [Xcode Installer DMGs](xcode.md)
 
 ## Why?
 
@@ -27,9 +27,9 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 ## See also:
 
-* [Stack overflow: How to download XCode DMG](http://stackoverflow.com/questions/10335747/how-to-download-xcode-4-5-6-7-and-get-the-dmg-file/12724297)
+* [Stack overflow: How to download Xcode DMG](http://stackoverflow.com/questions/10335747/how-to-download-xcode-4-5-6-7-and-get-the-dmg-file/12724297)
 
-### XCode Installers
+### Xcode Installers
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
@@ -110,7 +110,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [7.3.1]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_7.3.1/Xcode_7.3.1.dmg
  [8 beta 2]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_8_beta_2/Xcode_8_beta_2.xip
 
-### XCode Command Line Tools
+### Xcode Command Line Tools
 
 | SHA1 | Version | Filename |
 | ------- | ---- | -------- |
