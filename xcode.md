@@ -33,6 +33,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 8 beta 3 (10.11-10.12)][8 beta 3] (8S174q) | `226743393675445dbaa0fa5093ad81028b5124ca` | Xcode_8_beta_3.xip
 | [Xcode 8 beta 2 (10.11-10.12)][8 beta 2] (8S162m) | `8bf8d4e3810c7f96fa6788c69585899ec4151223` | Xcode_8_beta_2.xip
 | Xcode 8 beta 1 (10.11-10.12) (8S128d) | `798e6155e9e70caa5f7385e99a5a4c36daa87b6a` | Xcode_8_beta.xip
 | [Xcode 7.3.1 (10.11)][7.3.1] (7D1014) | `3016654b6f3574b937cbb5f7dd11c98bd3ab7b4e` | Xcode_7.3.1.dmg
@@ -109,6 +110,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [7.3]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_7.3/Xcode_7.3.dmg
  [7.3.1]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_7.3.1/Xcode_7.3.1.dmg
  [8 beta 2]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_8_beta_2/Xcode_8_beta_2.xip
+ [8 beta 3]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_8_beta_3/Xcode_8_beta_3.xip
 
 ### Xcode Command Line Tools
 
