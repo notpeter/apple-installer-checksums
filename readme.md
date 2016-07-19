@@ -39,8 +39,8 @@ openssl sha1 InstallESD.dmg
 | 10.10.4 Yosemite             | `a8da3a4f4499c68559a2bad4ce232f2443a333ca`
 | 10.10.3 Yosemite             | `dc4d4d0a7cd4aea4514025d23a58d05107369fa9`
 | 10.10.3 Yosemite             | `4b93ff2cef88220a116fbce7c5707c9c57442bd0`
-| 10.10.2 Yosemite             | `a673c2c6d967f4da2934b7d6cf3736936970b194`
-| 10.10.1 Yosemite             | `059f2603a91465bcee24c864d446da30df920f85`
+| 10.10.2 Yosemite             | `059f2603a91465bcee24c864d446da30df920f85`
+| 10.10.1 Yosemite             | `a673c2c6d967f4da2934b7d6cf3736936970b194`
 | 10.10.0 Yosemite             | `eebf02a20ac27665a966957eec6f5e6fe3228a19`
 | 10.9.5 Mavericks             | `4a0a01806be8676cb39fb0ab5d049a198d255538`
 | 10.9.0 Mavericks             | `e804dea01e38f8cd28d6c1b1697487e50898dbe7`
