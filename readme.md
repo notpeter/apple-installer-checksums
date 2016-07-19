@@ -5,7 +5,7 @@
 SHA1 checksums of Apple's installers for:
 
  * [Mac OSX InstallESD.dmg](#mac-osx-installers-sha1-checksums)
- * [XCode Installer DMGs](xcode.md)
+ * [Xcode Installer DMGs](xcode.md)
 
 ## Why?
 
@@ -29,6 +29,7 @@ openssl sha1 InstallESD.dmg
 | Version                      | SHA1 Checksum
 | ---------------------        | ------------------------------------------
 | 10.12dp1 Sierra (16A201w)    | `6b1368c4be9f043203efb2e6dd7b73541e016dbf`
+| 10.11.6 El Capitan (15G31)   | `7739e3f62080000da5d28efa689c53976112a262`
 | 10.11.5 El Capitan (15F34)   | `850781fe8cb5d88c5d1bc23e704e6686ff1fcc2f`
 | 10.11.4 El Capitan           | `f6292573395b46e8110be6077fd4827409bc948b`
 | 10.11.3 El Capitan           | `e4311d93127d0668372b32e5342f3b455b6bc9bd`
