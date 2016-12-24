@@ -24,6 +24,11 @@ Linux, etc:
 openssl sha1 InstallESD.dmg
 ````
 
+Windows 10 (PowerShell 3+)
+````
+Get-FileHash -Algorithm SHA1 InstallESD.dmg
+````
+
 ## Mac OSX Installers SHA1 Checksums
 
 | Version                      | SHA1 Checksum
