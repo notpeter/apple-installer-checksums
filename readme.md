@@ -16,7 +16,7 @@ Strong cryptography makes us all safer.
 OSX:
 
 ````
-shasum /Applications/Install\ OS\ X\ *.app/Contents/SharedSupport/InstallESD.dmg
+shasum /Applications/Install*OS*.app/Contents/SharedSupport/InstallESD.dmg
 ````
 
 Linux, etc:
