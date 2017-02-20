@@ -43,6 +43,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 10.12GM Sierra (16A320)      | `f38a32b512f70ce72fa054f86991ca057ef37f78`
 | 10.12dp2 Sierra (16A239m)    | `2df533dbb6b5af5d8cc8b352de5c2d4c81ce4cf2`
 | 10.12dp1 Sierra (16A201w)    | `6b1368c4be9f043203efb2e6dd7b73541e016dbf`
+| 10.11.6 El Capitan (15G1010) | `c3cdf53048a9a99a1d1355ccef09179a0b6a3dee`
 | 10.11.6 El Capitan (15G31)   | `7739e3f62080000da5d28efa689c53976112a262`
 | 10.11.5 El Capitan (15F34)   | `850781fe8cb5d88c5d1bc23e704e6686ff1fcc2f`
 | 10.11.4 El Capitan           | `f6292573395b46e8110be6077fd4827409bc948b`
