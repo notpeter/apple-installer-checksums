@@ -33,6 +33,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 8.3 (10.12)][8.3] (8E162) | `a6a6bad2206d56fbd04b38c17429ca032825147b` | Xcode_8.3.xip <!-- 6f228029664cfcbeb847d8e6f0b8fcece606afe6a844a09d25f67f9f636c92e1 -->
 | [Xcode 8.2.1 (10.11-10.12)][8.2.1] (8C1002) | `84c69fcf79bc65388dbea75161b88d9984acea1f` | Xcode_8.2.1.xip
 | [Xcode 8.2 (10.11-10.12)][8.2] (8C38) | `e2d13308b544bf2ee6d6f8212cccbf29513d3ef1` | Xcode_8.2.xip
 | [Xcode 8.1 (10.11-10.12)][8.1] (8B62) | `6c084896634167054685874871aeda2b41f0a621` | Xcode_8.1.xip
@@ -120,6 +121,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [8.1]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_8.1/Xcode_8.1.xip
  [8.2]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_8.2/Xcode_8.2.xip
  [8.2.1]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_8.2.1/Xcode_8.2.1.xip
+ [8.3]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_8.3/Xcode_8.3.xip
 
 ### Xcode Command Line Tools
 
