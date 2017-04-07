@@ -19,9 +19,13 @@ permalink: /xcode/
     {% if release.product contains 'Xcode' %}
         <tr>
             <td>{% include release.html product=release.product version=release.version build=release.build note=release.note %}</td>
-            <td>{{ release.filename }}</td>
+            <td>{% include filename.html filename=release.filename url=release.url %}</td>
             <td class="checksum">{% include checksum.html sha1=release.sha1 sha256=release.sha256 %}</td>
         </tr>
     {% endif %}
 {% endfor %}
 </table>
+
+## See also:
+
+* [Stack overflow: How to download Xcode DMG](http://stackoverflow.com/questions/10335747/how-to-download-xcode-4-5-6-7-and-get-the-dmg-file/12724297)
