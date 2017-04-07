@@ -1,67 +1,27 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
-    "_comment": "Indent PEP8ish to improve readibity.",
-    "title": "File Metadata",
-    "description": "",
-    "self": {"vendor": "net.brainsoup", "name": "file_metadata",
-             "format": "jsonschema", "version": "1-0-0"},
+    "_comment": "Indented PEP8ish to improve (read|edit)abity.",
+    "title": "File Checksums",
+    "description": "Checksums for files (md5, sha1, sha256, etc).",
+    "self": {"name": "file_metadata",
+             "format": "jsonschema",
+             "vendor": "net.brainsoup",
+             "version": "0-1-0"},
     "type": "array",
-    "items": {"type": "object", "minItems": 1,
-        "items": {
-          "oneOf": [{"$ref": "#/definitions/filemeta"}]
-        }
-    },
-    "definitions": {
-        "checksums": {
+    "items": [
+        {
             "type": "object",
-            "title": "One or multiple cryptographic checksums",
+            "title": "File Checksum",
             "properties": {
+                "name": {"type": "string", "minLength": 1},
                 "md5": {"type": "string", "pattern": "[0-9A-Za-z]{32}"},
                 "sha1": {"type": "string", "pattern": "[0-9A-Za-z]{40}"},
-                "sha224": {"type": "string", "pattern": "[0-9A-Za-z]{56}"},
+                "sha224": {"type": "string", "pattern": "[0-9A-Za-z]{48}"},
                 "sha256": {"type": "string", "pattern": "[0-9A-Za-z]{64}"},
                 "sha384": {"type": "string", "pattern": "[0-9A-Za-z]{96}"},
                 "sha512": {"type": "string", "pattern": "[0-9A-Za-z]{128}"}
-            }
-        },
-        "filemeta": {
-            "type": "object",
-            "title": "filemeta",
-            "properties": {
-                "filename": {"type": "string"},
-                "path": {"type": "string", "minLength": 1},
-                "size": {"type": "integer", "minimum": 0},
-                "name": {"type": "string"},
-                "checksum": {"type": "object", "oneOf": [{"$ref": "#/definitions/md5"}]},
-                "sha1": {
-                  "type": "string",
-                  "pattern": "[0-9A-Za-z]{40}"
-                },
-                "sha1": {
-                  "type": "string",
-                  "pattern": "[0-9A-Za-z]{40}"
-                },
-                "sha1": {
-                  "type": "string",
-                  "pattern": "[0-9A-Za-z]{40}"
-                },
-                "sha1": {
-                  "type": "string",
-                  "pattern": "[0-9A-Za-z]{40}"
-                },
-                "sha1": {
-                  "type": "string",
-                  "pattern": "[0-9A-Za-z]{40}"
-                },
-                "guid": {
-                  "type": "string",
-                  "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
-                },
-                "title": {
-                  "type": "string"
-                }
-              },
-          "required": ["time", "type", "text", "guid", "title"]
+            },
+            "required": ["name"]
         }
-  }
+    ]
 }
