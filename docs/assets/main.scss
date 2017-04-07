@@ -29,6 +29,10 @@ $on-laptop:        1200px;
 th, td { text-align:left }
 td {
     vertical-align:top;
+    white-space: nowrap;
+}
+td.checksum {
+    white-space: normal;
 }
 
 // Minima also includes a mixin for defining media queries.
