@@ -3,9 +3,7 @@
     "_comment": "Indented PEP8ish to improve (read|edit)abity.",
     "title": "File Checksums",
     "description": "Checksums for files (md5, sha1, sha256, etc).",
-    "self": {"name": "file_metadata",
-             "format": "jsonschema",
-             "vendor": "net.brainsoup",
+    "self": {"name": "file_checksums", "format": "jsonschema", "vendor": "net.brainsoup",
              "version": "0-1-0"},
     "type": "array",
     "items": [
@@ -13,7 +11,7 @@
             "type": "object",
             "title": "File Checksum",
             "properties": {
-                "name": {"type": "string", "minLength": 1},
+                "filename": {"type": "string", "minLength": 1},
                 "md5": {"type": "string", "pattern": "[0-9A-Za-z]{32}"},
                 "sha1": {"type": "string", "pattern": "[0-9A-Za-z]{40}"},
                 "sha224": {"type": "string", "pattern": "[0-9A-Za-z]{48}"},
