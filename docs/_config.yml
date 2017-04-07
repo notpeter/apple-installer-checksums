@@ -20,3 +20,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - readme.md
