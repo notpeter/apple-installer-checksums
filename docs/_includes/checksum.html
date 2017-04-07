@@ -1,0 +1,3 @@
+{% if include.sha256 %}sha256:&nbsp;{{ release.sha256 }}{% endif %}
+{% if release.sha1 %}sha1:&nbsp;{{ release.sha1 }}{% endif %}
+{% if include.md5 %}md5:{{ release.md5 }}{% endif %}
