@@ -12,13 +12,14 @@
             "title": "File Checksum",
             "properties": {
                 "filename": {"type": "string", "minLength": 1},
-                "md5": {"type": "string", "pattern": "[0-9A-Za-z]{32}"},
-                "sha1": {"type": "string", "pattern": "[0-9A-Za-z]{40}"},
-                "sha224": {"type": "string", "pattern": "[0-9A-Za-z]{48}"},
-                "sha256": {"type": "string", "pattern": "[0-9A-Za-z]{64}"},
-                "sha384": {"type": "string", "pattern": "[0-9A-Za-z]{96}"},
-                "sha512": {"type": "string", "pattern": "[0-9A-Za-z]{128}"}
+                "md5": {"type": "string", "pattern": "^[0-9A-Za-z]{32}$"},
+                "sha1": {"type": "string", "pattern": "^[0-9A-Za-z]{40}$"},
+                "sha224": {"type": "string", "pattern": "^[0-9A-Za-z]{56}$"},
+                "sha256": {"type": "string", "pattern": "^[0-9A-Za-z]{64}$"},
+                "sha384": {"type": "string", "pattern": "^[0-9A-Za-z]{96}$"},
+                "sha512": {"type": "string", "pattern": "^[0-9A-Za-z]{128}$"}
             },
+            "minProperties": 2,
             "required": ["filename"]
         }
     ]

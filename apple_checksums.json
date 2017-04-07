@@ -2,7 +2,7 @@
     {
         "build": "16E195",
         "filename": "InstallESD.dmg",
-        "name": "MacOS Sierra",
+        "product": "MacOS Sierra",
         "sha1": "30b9245f7c7608c40bbdf4d4a74f3ab84dbac716",
         "sha256": "30319aeae18c3277919c59fe678201553f5a11022d6966b67a43422996391181",
         "version": "10.12.4"
@@ -10,221 +10,221 @@
     {
         "build": "16D32",
         "filename": "InstallESD.dmg",
-        "name": "MacOS Sierra",
+        "product": "MacOS Sierra",
         "sha1": "77d354ec06df0d0acc37c105ae524ba96948142b",
         "version": "10.12.3"
     },
     {
         "build": "16C68",
         "filename": "InstallESD.dmg",
-        "name": "MacOS Sierra",
+        "product": "MacOS Sierra",
         "sha1": "94f9e8f7ae2540dee6fe3465f60fc037e2547d16",
         "version": "10.12.2"
     },
     {
         "build": "16C67",
         "filename": "InstallESD.dmg",
-        "name": "MacOS Sierra",
+        "product": "MacOS Sierra",
         "sha1": "1432e3be6222c434b536721076ed8b16b1c6050e",
         "version": "10.12.2"
     },
     {
         "build": "16B2659",
         "filename": "InstallESD.dmg",
-        "name": "MacOS Sierra",
+        "product": "MacOS Sierra",
         "sha1": "f7f147c54627c2a9beb1fa318394e1579b30b167",
         "version": "10.12.1"
     },
     {
         "build": "16B2657",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "e559e142a4c9ebaaa740c575d5c3c23c6eb3fb06",
         "version": "10.12.1"
     },
     {
         "build": "16A323",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "139ef35e4af0da8286b2a3af326cb114d774f606",
         "version": "10.12.0"
     },
     {
         "build": "16A322",
-        "comment": "Non-final GM",
+        "note": "Non-final GM",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "3e58d8fcff9f941f28fc7ab47b51c5651c2dfd6d",
         "version": "10.12GM"
     },
     {
         "build": "16A320",
-        "comment": "Non-final GM",
+        "note": "Non-final GM",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "f38a32b512f70ce72fa054f86991ca057ef37f78",
         "version": "10.12GM"
     },
     {
         "build": "16A239m",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "2df533dbb6b5af5d8cc8b352de5c2d4c81ce4cf2",
         "version": "10.12dp2"
     },
     {
         "build": "16A201w",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "6b1368c4be9f043203efb2e6dd7b73541e016dbf",
         "version": "10.12dp1"
     },
     {
         "build": "15G1010",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "c3cdf53048a9a99a1d1355ccef09179a0b6a3dee",
         "version": "10.11.6"
     },
     {
         "build": "15G31",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "7739e3f62080000da5d28efa689c53976112a262",
         "version": "10.11.6"
     },
     {
         "build": "15F34",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "850781fe8cb5d88c5d1bc23e704e6686ff1fcc2f",
         "version": "10.11.5"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "f6292573395b46e8110be6077fd4827409bc948b",
         "version": "10.11.4"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "e4311d93127d0668372b32e5342f3b455b6bc9bd",
         "version": "10.11.3"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "2b11b8b618a2e5100507c3c432363081db65c4c8",
         "version": "10.11.2"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "306a080c07e293b6765ba950bab213572704acec",
         "version": "10.11.1"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X El Capitan",
+        "product": "Mac OS X El Capitan",
         "sha1": "5e21097f2e98417ecc12574a7bb46a402594ea4a",
         "version": "10.11.0"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Yosemite",
+        "product": "Mac OS X Yosemite",
         "sha1": "ef5cc8851b893dbe4bc9a5cf5c648c10450af6bc",
         "version": "10.10.5"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Yosemite",
+        "product": "Mac OS X Yosemite",
         "sha1": "a8da3a4f4499c68559a2bad4ce232f2443a333ca",
         "version": "10.10.4"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Yosemite",
+        "product": "Mac OS X Yosemite",
         "sha1": "dc4d4d0a7cd4aea4514025d23a58d05107369fa9",
         "version": "10.10.3"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Yosemite",
+        "product": "Mac OS X Yosemite",
         "sha1": "4b93ff2cef88220a116fbce7c5707c9c57442bd0",
         "version": "10.10.3"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Yosemite",
+        "product": "Mac OS X Yosemite",
         "sha1": "059f2603a91465bcee24c864d446da30df920f85",
         "version": "10.10.2"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Yosemite",
+        "product": "Mac OS X Yosemite",
         "sha1": "a673c2c6d967f4da2934b7d6cf3736936970b194",
         "version": "10.10.1"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Yosemite",
+        "product": "Mac OS X Yosemite",
         "sha1": "eebf02a20ac27665a966957eec6f5e6fe3228a19",
         "version": "10.10.0"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Mavericks",
+        "product": "Mac OS X Mavericks",
         "sha1": "4a0a01806be8676cb39fb0ab5d049a198d255538",
         "version": "10.9.5"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Mavericks",
+        "product": "Mac OS X Mavericks",
         "sha1": "e804dea01e38f8cd28d6c1b1697487e50898dbe7",
         "version": "10.9.0"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Mountain Lion",
+        "product": "Mac OS X Mountain Lion",
         "sha1": "bd1997666f9786af584bfa0dc1a64d95ab4b42e6",
         "version": "10.8.5"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Mountain Lion",
+        "product": "Mac OS X Mountain Lion",
         "sha1": "7bc54f504aa0b769a2d0b8546393a6e0fc24671f",
         "version": "10.8.5"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Mountain Lion",
+        "product": "Mac OS X Mountain Lion",
         "sha1": "eaf54b1b1a630af85547fed8eabbf6fe159f2b42",
         "version": "10.8.2"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Mountain Lion",
+        "product": "Mac OS X Mountain Lion",
         "sha1": "e5dd2bf5560033cade7dd7d7da5ceec49f701b0e",
         "version": "10.8.0"
     },
     {
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Lion",
+        "product": "Mac OS X Lion",
         "sha1": "a044fc01fa75b1f255dbdd6ea4fefa30cef147b0",
         "version": "10.7.5"
     },
     {
         "build": "10A432",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Snow Leopard",
+        "product": "Mac OS X Snow Leopard",
         "sha1": "f8fa177e4be9a69f87be23b83c30e0c8eedacf5b",
         "version": "10.6.0"
     },
     {
         "build": "9A581",
         "filename": "InstallESD.dmg",
-        "name": "Mac OS X Leopard",
+        "product": "Mac OS X Leopard",
         "sha1": "67ab755a3604cd767787fed56150bdb566358f69",
         "version": "10.5.0"
     }

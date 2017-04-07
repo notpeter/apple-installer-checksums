@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Apple Installer Checksums",
+    "description": "Checksums for apple installer files (md5, sha1, sha256, etc).",
+    "self": {
+        "format": "jsonschema",
+        "vendor": "net.brainsoup",
+        "name": "apple_checksums",
+        "version": "0-1-0"
+    },
+    "_comment": "Please indent/collapse smartly to improve (read|edit)abity.",
+    "definitions": {
+        "file_checksum": {
+            "type": "object",
+            "title": "Filename and Checksum",
+            "properties": {
+                "filename": {"type": "string", "minLength": 1},
+                "md5": {"type": "string", "pattern": "^[0-9A-Za-z]{32}$"},
+                "sha1": {"type": "string", "pattern": "^[0-9A-Za-z]{40}$"},
+                "sha256": {"type": "string", "pattern": "^[0-9A-Za-z]{64}$"},
+                "sha512": {"type": "string", "pattern": "^[0-9A-Za-z]{128}$"}
+            },
+            "minProperties": 2,
+            "required": ["filename"]
+        },
+        "software_metadata": {
+            "type": "object",
+            "title": "Apple Installer Metadata",
+            "properties": {
+                "product": {"type": "string", "minLength": 1},
+                "version": {"type": "string", "minLength": 1},
+                "build": {"type": "string", "minLength": 1},
+                "note": {"type": "string", "minLength": 1}
+            },
+            "required": ["product", "version"]
+        }
+    },
+    "type": "array",
+    "items": [
+        {
+            "allOf": [
+                {"$ref": "#/definitions/file_checksum"},
+                {"$ref": "#/definitions/software_metadata"},
+            ]
+        }
+    ]
+}
