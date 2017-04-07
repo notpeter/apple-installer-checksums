@@ -19,7 +19,7 @@
                 "sha384": {"type": "string", "pattern": "[0-9A-Za-z]{96}"},
                 "sha512": {"type": "string", "pattern": "[0-9A-Za-z]{128}"}
             },
-            "required": ["name"]
+            "required": ["filename"]
         }
     ]
 }
