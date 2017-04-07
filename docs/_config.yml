@@ -16,7 +16,8 @@ github_project: apple-installer-checksums
 markdown: kramdown
 theme: minima
 gems:
-  - jekyll-feed
+  - jekyll-feed           #figure out how to remove this.
+  - jekyll-relative-links
 exclude:
   - Gemfile
   - Gemfile.lock
