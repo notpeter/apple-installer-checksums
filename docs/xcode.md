@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: XCode
+permalink: /xcode/
 ---
 
 You can find the source code and make contributions at:
