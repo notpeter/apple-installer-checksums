@@ -185,6 +185,7 @@
         "version": "10.9.0"
     },
     {
+        "build": "12F45",
         "filename": "InstallESD.dmg",
         "product": "Mac OS X Mountain Lion",
         "sha1": "bd1997666f9786af584bfa0dc1a64d95ab4b42e6",
