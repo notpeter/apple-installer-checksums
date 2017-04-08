@@ -10,7 +10,11 @@ Strong cryptography makes us all safer.
 
 ## Just show me the list!
 
-[https://notpeter.github.com/apple-installer-checksums]
+https://notpeter.github.com/apple-installer-checksums
+
+## I'm a robot, show me the JSON list!
+
+[apple_checksums.json](docs/_data/apple_checksums.json)
 
 ## How do I help?
 
