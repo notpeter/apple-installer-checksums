@@ -3,18 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">Apple Installer Checksums</h1>
   {{ content }}
-
-  <ul class="post-list">
-    {% for post in site.pages %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 You can find the source code and make contributions at:
 {% include icon-github.html username=site.github_username %}
 </div>

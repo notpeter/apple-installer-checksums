@@ -22,3 +22,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - readme.md
+# This is not a jekyll thing, it's just a hard coded array
+anchors:
+  - {url: '#about', title: 'About'}
+  - {url: '#macosx', title: 'Mac OS X'}
+  - {url: '#verify', title: 'Verify'}
+  - {url: '#xcode', title: 'XCode'}
+  - {url: '#contribute', title: 'Contribute'}
