@@ -198,6 +198,14 @@
         "version": "10.8.5"
     },
     {
+        "build": "12D78",
+        "filename": "InstallESD.dmg",
+        "product": "Mac OS X Mountain Lion",
+        "sha1": "945b234b8cae169983d5e70ea9116ca42fe5f82b",
+        "sha256": "5ae190da50130379f549257569560341d687628986bac02ec4dbd63bc180c76f",
+        "version": "10.8.3"
+    },
+    {
         "filename": "InstallESD.dmg",
         "product": "Mac OS X Mountain Lion",
         "sha1": "eaf54b1b1a630af85547fed8eabbf6fe159f2b42",
@@ -214,6 +222,14 @@
         "product": "Mac OS X Lion",
         "sha1": "a044fc01fa75b1f255dbdd6ea4fefa30cef147b0",
         "version": "10.7.5"
+    },
+    {
+        "build": "11C74",
+        "filename": "InstallESD.dmg",
+        "product": "Mac OS X Lion",
+        "sha1": "0c2c88d078b013adef1acee7824a009c69b4d4f0",
+        "sha256": "af1b07b354bbfb6031e6c972446b3a303df774bc4cfd612c3e1bda3621c58e6b",
+        "version": "10.7.2"
     },
     {
         "build": "10A432",
