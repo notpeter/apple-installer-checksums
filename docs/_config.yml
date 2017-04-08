@@ -5,8 +5,7 @@
 title: Apple Installer Checksums
 description: >
   Cryptographic checksums for Apple installers.
-baseurl: "/testzzz"
-#baseurl: "/apple-installer-checksums"
+baseurl: "/apple-installer-checksums"
 url: "https://notpeter.github.io"
 twitter_username: notpeter
 github_username:  notpeter/apple-installer-checksums
