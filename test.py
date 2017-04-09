@@ -36,7 +36,7 @@ class AppleChecksumsJSON(unittest.TestCase):
             file_json = json.load(file)
         with NamedTemporaryFile(mode='w') as tmp:
             json.dump(file_json, tmp, indent=4, separators=(',', ': '),
-                      separators=(',', ': '))
+                      sort_keys=True)
             # add final newline (json.dump exludes it)
             tmp.write('\n')
             tmp.flush()
