@@ -20,8 +20,8 @@ def update():
         checksums = json.load(acj)
     # Fancy method, but no do custom orders.
     # columns = set().union(*(d.keys() for d in checksums))
-    columns = ['product', 'version', 'build', 'sha1', 'sha256', 'filename',
-               'note', 'url']
+    columns = ['product', 'version', 'build', 'note', 'filename',
+               'sha1', 'sha256', 'url']
     # Write everything to the CSV
     with open("apple_checksums.csv", 'w') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=columns)
