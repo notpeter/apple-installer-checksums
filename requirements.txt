@@ -1,0 +1,2 @@
+# This is required for running tests.
+jsonschema==2.6.0
