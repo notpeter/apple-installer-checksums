@@ -1,37 +1,33 @@
 # Apple Installer Checksums
 
-## What?
+## What is this?
 
-SHA1 checksums of Apple's installers for:
+SHA1 checksums of installers for:
 
- * [Mac OSX InstallESD.dmg](#mac-osx-installers-sha1-checksums)
- * [Xcode Installer DMGs](xcode.md)
+ * [macOS' InstallESD.dmg](#macos-installer-checksums)
+ * [Xcode's Installer DMGs](xcode.md)
 
 ## Why?
 
-Strong cryptography makes us all safer.
+Checksums are used to verify whether or not your copies of macOS have been tampered with.
 
 ## Verify checksums
 
-OSX:
+macOS:
 
-````
-shasum /Applications/Install*OS*.app/Contents/SharedSupport/InstallESD.dmg
-````
+`shasum /Applications/Install*OS*.app/Contents/SharedSupport/InstallESD.dmg`
 
 Linux, etc:
-````
-openssl sha1 InstallESD.dmg
-````
+
+`sha1sum InstallESD.dmg`
 
 Windows 10 (PowerShell 3+)
-````
-Get-FileHash -Algorithm SHA1 InstallESD.dmg
-````
 
-## Mac OSX Installers SHA1 Checksums
+`Get-FileHash -Algorithm SHA1 InstallESD.dmg`
 
-| Version                      | SHA1 Checksum
+## macOS Installer Checksums
+
+| Version                      | SHA1
 | ---------------------        | ------------------------------------------
 | 10.12.4 Sierra (16E195)      | `30b9245f7c7608c40bbdf4d4a74f3ab84dbac716` <!-- 30319aeae18c3277919c59fe678201553f5a11022d6966b67a43422996391181 -->
 | 10.12.3 Sierra (16D32)       | `77d354ec06df0d0acc37c105ae524ba96948142b`
