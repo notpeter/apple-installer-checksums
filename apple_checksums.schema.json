@@ -19,7 +19,7 @@
                 "sha1": {"type": "string", "pattern": "^[0-9A-Za-z]{40}$"},
                 "sha256": {"type": "string", "pattern": "^[0-9A-Za-z]{64}$"},
                 "sha512": {"type": "string", "pattern": "^[0-9A-Za-z]{128}$"},
-                "product": {"type": "string", "pattern": "^(Mac|Xcode)"},
+                "product": {"type": "string", "minLength": 1},
                 "version": {"type": "string", "minLength": 1},
                 "build": {"type": "string", "minLength": 1},
                 "note": {"type": "string", "minLength": 1},

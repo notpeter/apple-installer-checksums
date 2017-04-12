@@ -235,7 +235,7 @@
     },
     {
         "build": "10A432",
-        "filename":  "OS X Install DVD.dmg",
+        "filename": "OS X Install DVD.dmg",
         "product": "OS X Snow Leopard",
         "sha1": "f8fa177e4be9a69f87be23b83c30e0c8eedacf5b",
         "version": "10.6.0"
