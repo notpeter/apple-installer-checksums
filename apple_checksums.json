@@ -151,6 +151,15 @@
     {
         "build": "14F27",
         "filename": "/Applications/Install OS X Yosemite.app/Contents/SharedSupport/InstallESD.dmg",
+        "note": "2017 Re-Sign",
+        "product": "OS X Yosemite",
+        "sha1": "0e063fd87d5b0a4f68dbd35da95b2018748f88eb",
+        "sha256": "6a2d563b89d4c2733e8ff087c16db0caaa6594375ac835b3110df4306edb2459",
+        "version": "10.10.5"
+    },
+    {
+        "build": "14F27",
+        "filename": "/Applications/Install OS X Yosemite.app/Contents/SharedSupport/InstallESD.dmg",
         "product": "OS X Yosemite",
         "sha1": "ef5cc8851b893dbe4bc9a5cf5c648c10450af6bc",
         "sha256": "24c4934d91401dd2f738c7811d35ae16d3d7993586592a64b9baf625fe0427db",
@@ -197,6 +206,15 @@
     {
         "build": "13F34",
         "filename": "/Applications/Install OS X Mavericks.app/Contents/SharedSupport/InstallESD.dmg",
+        "note": "2017 Re-Sign",
+        "product": "OS X Mavericks",
+        "sha1": "73cdd9440fe5efa79763f5461ec4ad9a59cdd1df",
+        "sha256": "29b3487a2de846ea6c2015bdb9674c1e44df0ae725ce6110eee3f6be081d1f62",
+        "version": "10.9.5"
+    },
+    {
+        "build": "13F34",
+        "filename": "/Applications/Install OS X Mavericks.app/Contents/SharedSupport/InstallESD.dmg",
         "product": "OS X Mavericks",
         "sha1": "4a0a01806be8676cb39fb0ab5d049a198d255538",
         "version": "10.9.5"
@@ -211,6 +229,7 @@
     {
         "build": "12F45",
         "filename": "/Applications/Install OS X Mountain Lion.app/Contents/SharedSupport/InstallESD.dmg",
+        "note": "2017 Re-Sign",
         "product": "OS X Mountain Lion",
         "sha1": "bd1997666f9786af584bfa0dc1a64d95ab4b42e6",
         "version": "10.8.5"
