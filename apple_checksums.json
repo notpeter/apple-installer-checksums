@@ -195,16 +195,18 @@
         "version": "10.10.0"
     },
     {
+        "build": "13F34",
         "filename": "/Applications/Install OS X Mavericks.app/Contents/SharedSupport/InstallESD.dmg",
         "product": "OS X Mavericks",
         "sha1": "4a0a01806be8676cb39fb0ab5d049a198d255538",
         "version": "10.9.5"
     },
     {
+        "build": "13A603",
         "filename": "/Applications/Install OS X Mavericks.app/Contents/SharedSupport/InstallESD.dmg",
         "product": "OS X Mavericks",
         "sha1": "e804dea01e38f8cd28d6c1b1697487e50898dbe7",
-        "version": "10.9.0"
+        "version": "10.9"
     },
     {
         "build": "12F45",
@@ -242,6 +244,7 @@
         "version": "10.8.0"
     },
     {
+        "build": "11G565",
         "filename": "/Applications/Install OS X Lion.app/Contents/SharedSupport/InstallESD.dmg",
         "product": "OS X Lion",
         "sha1": "a044fc01fa75b1f255dbdd6ea4fefa30cef147b0",
