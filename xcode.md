@@ -25,7 +25,7 @@ Windows 10 (PowerShell 3+)
 
 `Get-FileHash -Algorithm SHA1 Xcode*.xip`
 
-### Xcode Installer Checksums
+## Xcode Installer Checksums
 
 | Version                                     | SHA1                                       | SHA256                                                             | Filename           
 | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------ | -------------------------------- |
@@ -123,7 +123,7 @@ Windows 10 (PowerShell 3+)
  [8.3]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_8.3/Xcode_8.3.xip
  [8.3.1]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/Xcode_8.3.1/Xcode_8.3.1.xip
 
-### Xcode Command Line Tools
+## Xcode Command Line Tools
 
 | Version                                    | SHA1                                       | SHA256 | Filename                                  |
 | ------------------------------------------ | ------------------------------------------ | ------ | ----------------------------------------- |
