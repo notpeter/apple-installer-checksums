@@ -12,10 +12,6 @@ Strong cryptography makes us all safer.
 
 SHA256 and SHA1.
 
-| [apple_checksums.csv]  |
-| [apple_checksums.json] |
-| [apple_checksums]
-
 ## How to verify checksums:
 
 OSX:
