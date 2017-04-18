@@ -228,8 +228,8 @@
     {
         "build": "13F34",
         "filename": "InstallESD.dmg",
-        "path": "/Applications/Install OS X Mavericks.app/Contents/SharedSupport/",
         "note": "2017 Re-Sign",
+        "path": "/Applications/Install OS X Mavericks.app/Contents/SharedSupport/",
         "product": "OS X Mavericks",
         "sha1": "73cdd9440fe5efa79763f5461ec4ad9a59cdd1df",
         "sha256": "29b3487a2de846ea6c2015bdb9674c1e44df0ae725ce6110eee3f6be081d1f62",
@@ -254,8 +254,8 @@
     {
         "build": "12F45",
         "filename": "InstallESD.dmg",
-        "path": "/Applications/Install OS X Mountain Lion.app/Contents/SharedSupport/",
         "note": "2017 Re-Sign",
+        "path": "/Applications/Install OS X Mountain Lion.app/Contents/SharedSupport/",
         "product": "OS X Mountain Lion",
         "sha1": "bd1997666f9786af584bfa0dc1a64d95ab4b42e6",
         "version": "10.8.5"
