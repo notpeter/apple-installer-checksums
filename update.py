@@ -24,7 +24,7 @@ def update():
                'sha1', 'sha256', 'url']
     # Write everything to the CSV
     with open("apple_checksums.csv", 'w') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=columns)
+        writer = csv.DictWriter(csv_file, fieldnames=columns, extrasaction='ignore')
         writer.writeheader()
         for apple_file in checksums:
             writer.writerow(apple_file)
