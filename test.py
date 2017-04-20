@@ -10,19 +10,16 @@ from tempfile import NamedTemporaryFile
 # Unittest subtests require Python >3.4 or unittest2 (backport)
 
 
-class AppleChecksumsJSON(unittest.TestCase):
-    def test_json1(self):
-        """apple_checksums.json and is actually json"""
+class Checksums(unittest.TestCase):
+    def test_apple_checksums_json(self):
         with open('apple_checksums.json') as file:
             json.load(file)
 
-    def test_json2(self):
-        """apple_checksums.json is json"""
+    def test_apple_checksums_schema_json(self):
         with open('apple_checksums.schema.json') as file:
             json.load(file)
 
     def test_valid_json_schema(self):
-        """JSON Schema Validation passes"""
         with open('apple_checksums.json') as file:
             apple_checksums = json.load(file)
         with open('apple_checksums.schema.json') as file:
@@ -31,7 +28,6 @@ class AppleChecksumsJSON(unittest.TestCase):
         self.assertIsNone(jsonschema.validate(apple_checksums, schema))
 
     def test_sorted_json(self):
-        """Ensures input JSON has consistent formatting/sorted order"""
         with open('apple_checksums.json') as file:
             file_json = json.load(file)
         with NamedTemporaryFile(mode='w') as tmp:
