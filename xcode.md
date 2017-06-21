@@ -33,6 +33,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 9 beta 2 (10.12-10.13)][9b2] (9M137d) | `04d87e1b33d427b0e9d2e2e50f79057c8f3323dd` | Xcode_9_beta_2.xip <!-- 200533a8f07eed277b372f4903efb591fd244520934da409fd53edd0cfa06cbe -->
 | [Xcode 9 beta 1 (10.12-10.13)][9b1] (9M136h) | `b0d136ce31cf21840e084067ff65c6ed498c2dde` | Xcode_9_beta.xip <!-- 74a95da0565f8e6991e2d05d0c9105cf2781e7f7fe272e4ed7af1d8344710180 -->
 | [Xcode 8.3.3 (10.12-10.13)][8.3.3] (8E3004b) | `67023787df49c91ff5d6a67e12d165bc610f0022` | Xcode8.3.3.xip <!-- f3de0ed4155157aeb07e7d83c9132b14ac540b51e72ea450d01cce9f67e47937 -->
 | [Xcode 8.3.2 (10.12)][8.3.2] (8E2002) | `4e7e97e6e2c5c92432a04e657dfe94226849cb51` | Xcode8.3.2.xip <!-- 5f67e3d54a9725729d1b0186bc9fe8f589bf76a76bb92fe36e8cda17d130c58b -->
@@ -132,6 +133,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [8.3.2]: http://adcdownload.apple.com/Developer_Tools/Xcode_8.3.2/Xcode8.3.2.xip
  [8.3.3]: http://adcdownload.apple.com/Developer_Tools/Xcode_8.3.3/Xcode8.3.3.xip
  [9b1]: http://adcdownload.apple.com/WWDC_2017/Xcode_9_beta/Xcode_9_beta.xip
+ [9b2]: http://adcdownload.apple.com/Developer_Tools/Xcode_9_beta_2/Xcode_9_beta_2.xip
 
 ### Xcode Command Line Tools
 
