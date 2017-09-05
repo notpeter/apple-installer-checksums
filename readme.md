@@ -33,6 +33,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 
 | Version                      | SHA1 Checksum
 | ---------------------        | ------------------------------------------
+| 10.13db9 High Sierra (17A360a) | `0c26ff40fb1d2ac33eb956f375435504f6c82aab` (InstallESD.dmg), `f67a9ef856e9cadc5e72e91df5d74e10bb485993` (BaseSystem.dmg) <!-- 449028395c0157eb65361f6fa5a8bf2ea6d94dd12d9b29a187800f4b611dd988 (InstallESD.dmg), e19c038fc40b438f38769236b94bbd4e07f5e71a1d3f9001b594b5d0a083b5f0 (BaseSystem.dmg) -->
 | 10.13db8 High Sierra (17A358a) | `671f49b99e5449a5fb33b9b6e79c2578421bf52d` (InstallESD.dmg), `22e6f0335f2f98a7b0e479aa79591fcaab1505d0` (BaseSystem.dmg) <!-- bd85cb34c674bf9d7fc9755312a760c6fecd841cc7c992ced2ce616d9683dec5 (InstallESD.dmg), 6f9b39b71f11849b263f9a7787c57d5803b786649469adab1ae918ca3b2a42b8 (BaseSystem.dmg) -->
 | 10.13db7 High Sierra (17A352a) | `23de5e8003692d47ebd09eabdffcd6b7f5ddaf6f` (InstallESD.dmg), `7b41b675611183ecb62087a1951e65b7a07ec970` (BaseSystem.dmg) <!-- ea9ddddbdd2cad64eef7272b532934d8845d68e0fc54e0dedb7f16e74396b494 (InstallESD.dmg), 30fa92da728cc9826bf7a969618290c64b68f853ee6fc4572456d0a57453fce4 (BaseSystem.dmg) -->
 | 10.13db6 High Sierra (17A344b) | `52f33ce14e6d743b2eddc40ba3c73d3d37e6838a` (InstallESD.dmg), `4342b2238f8ced923de2eae48aaeaa68b146fd9f` (BaseSystem.dmg) <!-- 227ce2d136745bbc4004af10d8ecdd2e6a462ab8b496b5c32af0decb51d0bccc (InstallESD.dmg), 23db992d5dc8f89090e4d5b68e0dda213f0599dd7a94fe3127c0fd3ae7bfbac2 (BaseSystem.dmg) -->
