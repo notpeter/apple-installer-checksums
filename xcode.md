@@ -33,6 +33,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 9.1 (10.12-10.13)][9.1] (9B55) | `3bfa10edf51e461cfb0459d2a2bdd2228dc9ff70` | Xcode_9.1.xip <!-- 66c0b1aaf4711e8d3c788305fadde4e07b303d237e8f63f2242ad43cfefcfeb7 -->
 | [Xcode 9.1 beta (10.12-10.13)][9.1b1] (9B37) | `2d282eac5bbef51683fc857311ef900e8ca1fcf4` | Xcode_9.1_beta.xip <!-- 67a9edd11d55e1d555bf2da9cefc82758e83780cf2a2ce8e7bd6784ee515190e -->
 | [Xcode 9.0.1 (10.12-10.13)][9.0.1] (9A1004) | `327f5415e08a743bd9c90e7995a4454768d25823` | Xcode_9.0.1.xip <!-- 3da91018ccf60f59da92cb9729042617ad242d5fe0e14dd4c55cbd1934cacd13 -->
 | [Xcode 9 (10.12-10.13)][9] (9A235) | `d934fa6304d3aa890b02c3998e139be5a355469d` | Xcode_9.xip <!-- 8802a3919b598e31ddec57c3d38fc13dccc780c110555b6b705a91bdfc5537d7 -->
@@ -148,6 +149,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [9]: https://download.developer.apple.com/Developer_Tools/Xcode_9/Xcode_9.xip
  [9.0.1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.0.1/Xcode_9.0.1.xip
  [9.1b1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.1_beta/Xcode_9.1_beta.xip
+ [9.1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.1/Xcode_9.1.xip
  
 ### Xcode Command Line Tools
 
