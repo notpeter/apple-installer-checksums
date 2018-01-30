@@ -33,6 +33,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 9.3 beta (10.13)][9.3b1] (9Q98q) | `3d1f4918810b173ff205b64a2006bb163d9cf5b1` | Xcode_9.3_beta.xip <!-- a3cf8fecf9c5a664cc8039914b51a4962546f1207e2c1514f219358167a03f4f -->
 | [Xcode 9.2 (10.12-10.13)][9.2] (9C40b) | `cd93fc78fbbb34e135a4c4f0121f9fe559260399` | Xcode_9.2.xip <!-- 9d044a11431ec93fc69068ff0548e8353c16d87e8b36a2ead8d42ded4bc2beff -->
 | [Xcode 9.1 (10.12-10.13)][9.1] (9B55) | `3bfa10edf51e461cfb0459d2a2bdd2228dc9ff70` | Xcode_9.1.xip <!-- 66c0b1aaf4711e8d3c788305fadde4e07b303d237e8f63f2242ad43cfefcfeb7 -->
 | [Xcode 9.1 beta (10.12-10.13)][9.1b1] (9B37) | `2d282eac5bbef51683fc857311ef900e8ca1fcf4` | Xcode_9.1_beta.xip <!-- 67a9edd11d55e1d555bf2da9cefc82758e83780cf2a2ce8e7bd6784ee515190e -->
@@ -152,13 +153,16 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [9.1b1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.1_beta/Xcode_9.1_beta.xip
  [9.1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.1/Xcode_9.1.xip
  [9.2]: https://download.developer.apple.com/Developer_Tools/Xcode_9.2/Xcode_9.2.xip
+ [9.3b1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.3_beta/Xcode_9.3_beta.xip
  
 ### Xcode Command Line Tools
 
 | SHA1 | Version | Filename |
 | ------- | ---- | -------- |
+| `f1aeb8cc3cc0092e3fcd569f1bd9234d9c25d666` | [CLI Tools 9.3 beta (10.13)][cli-9.3b1-10.13] | Command_Line_Tools_macOS_10.13_for_Xcode_9.3_beta.dmg
 | `5a6f9d1eb02bce4f522e6f93e22713a94daa600d` | [CLI Tools 6.1.1 (10.10)][cli-6.1.1-10.10] | commandlinetoolsosx10.10forxcode6.1.1.dmg
 | `662746e2cf6788f9add7fab80aa28c2f5462d665` | [CLI Tools 6.1.1 (10.9)][cli-6.1.1-10.9] | commandlinetoolsosx10.9forxcode6.1.1.dmg
 
  [cli-6.1.1-10.9]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/command_line_tools_os_x_10.9_for_xcode__xcode_6.1.1/commandlinetoolsosx10.9forxcode6.1.1.dmg
  [cli-6.1.1-10.10]: https://developer.apple.com/devcenter/download.action?path=/Developer_Tools/command_line_tools_os_x_10.10_for_xcode__xcode_6.1.1/commandlinetoolsosx10.10forxcode6.1.1.dmg
+ [cli-9.3b1-10.13]: https://download.developer.apple.com/Developer_Tools/Command_Line_Tools_macOS_10.13_for_Xcode_9.3/Command_Line_Tools_macOS_10.13_for_Xcode_9.3_beta.dmg
