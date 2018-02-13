@@ -62,6 +62,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 10.12GM Sierra (16A320)      | `f38a32b512f70ce72fa054f86991ca057ef37f78`
 | 10.12dp2 Sierra (16A239m)    | `2df533dbb6b5af5d8cc8b352de5c2d4c81ce4cf2`
 | 10.12dp1 Sierra (16A201w)    | `6b1368c4be9f043203efb2e6dd7b73541e016dbf`
+| 10.11.6 El Capitan (15G1011) | `6315745c3c86d73f2991076f2e548612f58aceaf`
 | 10.11.6 El Capitan (15G1010) | `c3cdf53048a9a99a1d1355ccef09179a0b6a3dee`
 | 10.11.6 El Capitan (15G31)   | `7739e3f62080000da5d28efa689c53976112a262`
 | 10.11.5 El Capitan (15F34)   | `850781fe8cb5d88c5d1bc23e704e6686ff1fcc2f`
@@ -70,6 +71,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 10.11.2 El Capitan           | `2b11b8b618a2e5100507c3c432363081db65c4c8`
 | 10.11.1 El Capitan           | `306a080c07e293b6765ba950bab213572704acec`
 | 10.11.0 El Capitan           | `5e21097f2e98417ecc12574a7bb46a402594ea4a`
+| 10.10.5 Yosemite (14F27)     | `0e063fd87d5b0a4f68dbd35da95b2018748f88eb`
 | 10.10.5 Yosemite             | `ef5cc8851b893dbe4bc9a5cf5c648c10450af6bc`
 | 10.10.4 Yosemite             | `a8da3a4f4499c68559a2bad4ce232f2443a333ca`
 | 10.10.3 Yosemite             | `dc4d4d0a7cd4aea4514025d23a58d05107369fa9`
