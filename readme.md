@@ -16,7 +16,7 @@ Strong cryptography makes us all safer.
 OSX:
 
 ````
-shasum /Applications/Install*OS*.app/Contents/SharedSupport/InstallESD.dmg
+shasum /Applications/Install*OS*.app/Contents/SharedSupport/{Base,Install}*.dmg
 ````
 
 Linux, etc:
@@ -33,6 +33,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 
 | Version                      | SHA1 Checksum
 | ---------------------        | ------------------------------------------
+| 10.13.5 (17F73) | `216b38acfb234b4e29c2dba41fd76814550b59e2` (InstallESD.dmg), `a97aeffdbeda4d68e1053f69b55d9d56df4259d6` (BaseSystem.dmg) <!-- c4ff5048bafbf7f386cd6cb3b09b58112df607a526874c726d9b0c5ba2e61a4f (InstallESD.dmg), 3ba831c8d3e59c933294295ca83e2bf6dbb44d802cdd81cd87d5ff7d419cd676 (BaseSystem.dmg) -->
 | 10.13.4 (17E199) | `2c72b22a45ea8f5a80bee91db8aba96dae8310ea` (InstallESD.dmg), `06fb280713ada5595a45eb221af0091b3c24f314` (BaseSystem.dmg) <!-- fd33bb6f8a4132c2ba50808c0e1f92eb05b6c300d38e58287d5d7dec01a4cd65 (InstallESD.dmg), 69cb73cafcb3c3115a43139d3e5e070fad6389f8aa1ab6deff9c2961698a84d6 (BaseSystem.dmg) -->
 | 10.13.3 (17D47) | `726c7516fdbe33ae3f2384ba1ce7efcda4335776` (InstallESD.dmg), `d64fd8e6ca5287b80fd785a3a1a151da92b8369d` (BaseSystem.dmg) <!-- 438fc19055e56ac90fb485796d3aacc4059d241d79bc5c303220c4c2468a1f9d (InstallESD.dmg), 70ca1982b03386a08b687079c34e32fdeca49800262c7f9eded3c2e0d8298fea (BaseSystem.dmg) -->
 | 10.13.2 (17C88) | `49e336085247331ea6033ebd3598a827caa6596e` (InstallESD.dmg), `209d6a382026115a30c79f0825aec1b7a4cdb2dd` (BaseSystem.dmg) <!-- a016570e65a70e23462efdddd845d3a1a5a7cc39aa770a0052af16e3d5f2ac4f (InstallESD.dmg), f10436de7929a4a9f639987fc394ac8ec4de2e44c0aaa7102dc922ce058db2b3 (BaseSystem.dmg) -->
