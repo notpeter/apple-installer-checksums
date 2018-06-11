@@ -33,6 +33,9 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 10 Beta (10.13)][10 Beta] (10L176w) | `baf85968300b1d20421e5341976d397f580290d0` | Xcode_10_Beta.xip <!-- a0215f8416e79596a731d818135caa04a0360007307e5a42ef0c2e023ed80e8d -->
+| [Xcode 9.4 (10.13)][9.4] (9F1027a) | `17d22ca295922a810ae69b0ae1bab7b1e3304b1d` | Xcode_9.4.xip <!-- 0249db1a18f6b7f5f23477043242e9756249cd354e6d442efc5a2f489448e02b -->
+| [Xcode 9.3.1 (10.13)][9.3.1] (9E501) | `f10bf92c8dfb0dda451688d0335bab0d1cea2ce7` | Xcode_9.3.1.xip <!-- 7e54f742a5c14a06b065e64a68930639519d0abca1703bef216b1ad86534cc18 -->
 | [Xcode 9.3 (10.13)][9.3] (9E145) | `8c054e8b318b9d567177a8c2e230a9a6c7a603a6` | Xcode_9.3.xip <!-- a535251d532bc557b155d81b182d61678fbb4e85a89b5ae74ef0badb968a8006 -->
 | [Xcode 9.2 (10.12-10.13)][9.2] (9C40b) | `cd93fc78fbbb34e135a4c4f0121f9fe559260399` | Xcode_9.2.xip <!-- 9d044a11431ec93fc69068ff0548e8353c16d87e8b36a2ead8d42ded4bc2beff -->
 | [Xcode 9.1 (10.12-10.13)][9.1] (9B55) | `3bfa10edf51e461cfb0459d2a2bdd2228dc9ff70` | Xcode_9.1.xip <!-- 66c0b1aaf4711e8d3c788305fadde4e07b303d237e8f63f2242ad43cfefcfeb7 -->
@@ -154,6 +157,9 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [9.1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.1/Xcode_9.1.xip
  [9.2]: https://download.developer.apple.com/Developer_Tools/Xcode_9.2/Xcode_9.2.xip
  [9.3]: https://download.developer.apple.com/Developer_Tools/Xcode_9.3/Xcode_9.3.xip
+ [9.3.1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.3.1/Xcode_9.3.1.xip
+ [9.4]: https://download.developer.apple.com/Developer_Tools/Xcode_9.4/Xcode_9.4.xip
+ [10 Beta]: https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta/Xcode_10_Beta.xip
  
 ### Xcode Command Line Tools
 
