@@ -27,7 +27,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 ## See also:
 
-* [Stack overflow: How to download Xcode DMG](http://stackoverflow.com/questions/10335747/how-to-download-xcode-4-5-6-7-and-get-the-dmg-file/12724297)
+* [Stack overflow: How to download Xcode DMG](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file/10335943#10335943)
 
 ### Xcode Installers
 
