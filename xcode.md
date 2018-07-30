@@ -33,6 +33,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 10 Beta 5 (10.13-10.14)][10 Beta 5] (10L221o) | `618f51edd6ba2f012a995c7df4910a885b9df938` | Xcode_10_beta_5.xip <!-- 3dc591250c952cd0b5cb0f8eac42763ddac999c640c8268d08ae4b3138f7169a -->
 | [Xcode 10 Beta 4 (10.13-10.14)][10 Beta 4] (10L213o) | `dabc357c94eca16be9200f8a4c2195d3fe92e853` | Xcode_10_beta_4.xip <!-- 4361357a401709928264bbb4900c567c3bfcfa2941ca1ad0ae870a8bdade41fc -->
 | [Xcode 10 Beta 3 (10.13-10.14)][10 Beta 3] (10L201y) | `d748ab7852d6b8234e84c70ee0cf52d65ef3b4b0` | Xcode_10_beta_3.xip <!-- 1416227e67f0337517d9845423347422d5963925cc4f458dfc99257cc9a988b3 -->
 | [Xcode 10 Beta 2 (10.13-10.14)][10 Beta 2] (10L177m) | `83f579a70cef52a030ed9673ddd515ae4b15a82a` | Xcode_10_Beta_2.xip <!-- 2d8007ebfe2c581cf1c6c7c20a6bbc1d303691ee440434b11a3e4599a4ee58a2 -->
@@ -166,6 +167,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [10 Beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta_2/Xcode_10_Beta_2.xip
  [10 Beta 3]: https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_3/Xcode_10_beta_3.xip
  [10 Beta 4]: https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_4/Xcode_10_beta_4.xip
+ [10 Beta 5]: https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_5/Xcode_10_beta_5.xip
 
 ### Xcode Command Line Tools
 
