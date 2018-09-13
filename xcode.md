@@ -33,7 +33,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
-| [Xcode 10 GM seed (10.13-10.14)][10 GM] (10A254a) | `18e7222da6be18112df86cfe34a5e2f7a8ca2e5b` | Xcode_10_Beta_6.xip <!-- 82f6d8ffb58e703ab6ceeb09e41c22162140642336dc8cc225be69a6636a2214 -->
+| [Xcode 10 GM seed (10.13-10.14)][10 GM] (10A254a) | `18e7222da6be18112df86cfe34a5e2f7a8ca2e5b` | Xcode_10_GM_seed.xip <!-- 82f6d8ffb58e703ab6ceeb09e41c22162140642336dc8cc225be69a6636a2214 -->
 | [Xcode 10 Beta 6 (10.13-10.14)][10 Beta 6] (10L232m) | `4a9047990882b240b7ed3e3b710d4516c39e129a` | Xcode_10_Beta_6.xip <!-- 518d39c055c3c697ca5ee6f017c83867de5811896c76a7851f28a7e91a8d6109 -->
 | [Xcode 10 Beta 5 (10.13-10.14)][10 Beta 5] (10L221o) | `618f51edd6ba2f012a995c7df4910a885b9df938` | Xcode_10_beta_5.xip <!-- 3dc591250c952cd0b5cb0f8eac42763ddac999c640c8268d08ae4b3138f7169a -->
 | [Xcode 10 Beta 4 (10.13-10.14)][10 Beta 4] (10L213o) | `dabc357c94eca16be9200f8a4c2195d3fe92e853` | Xcode_10_beta_4.xip <!-- 4361357a401709928264bbb4900c567c3bfcfa2941ca1ad0ae870a8bdade41fc -->
