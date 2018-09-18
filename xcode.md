@@ -17,9 +17,11 @@ Strong cryptography makes us all safer.
 OSX have `shasum`, Linux & others: `openssl sha1`:
 
 ````
-shasum whatever.dmg
-openssl sha1 whatever.dmg
+shasum whatever.xip
+openssl sha1 whatever.xip
 ````
+
+<!-- For SHA256: `shasum -a 256 whatever.xip` -->
 
 ## How do I help?
 
@@ -33,6 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 10 (10.13-10.14)][10] (10A255) | `3fdc772883a5208217bfc27282399b333309e976` | Xcode_10.xip <!-- 6140686b87d1670f9d4a1c840e32aab184c84d7a817ba5a33e0b8e7b7a8ba2d6 -->
 | [Xcode 10 GM seed (10.13-10.14)][10 GM] (10A254a) | `18e7222da6be18112df86cfe34a5e2f7a8ca2e5b` | Xcode_10_GM_seed.xip <!-- 82f6d8ffb58e703ab6ceeb09e41c22162140642336dc8cc225be69a6636a2214 -->
 | [Xcode 10 Beta 6 (10.13-10.14)][10 Beta 6] (10L232m) | `4a9047990882b240b7ed3e3b710d4516c39e129a` | Xcode_10_Beta_6.xip <!-- 518d39c055c3c697ca5ee6f017c83867de5811896c76a7851f28a7e91a8d6109 -->
 | [Xcode 10 Beta 5 (10.13-10.14)][10 Beta 5] (10L221o) | `618f51edd6ba2f012a995c7df4910a885b9df938` | Xcode_10_beta_5.xip <!-- 3dc591250c952cd0b5cb0f8eac42763ddac999c640c8268d08ae4b3138f7169a -->
@@ -172,6 +175,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [10 Beta 5]: https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_5/Xcode_10_beta_5.xip
  [10 Beta 6]: https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta_6/Xcode_10_Beta_6.xip
  [10 GM]: https://download.developer.apple.com/Developer_Tools/Xcode_10_GM_seed/Xcode_10_GM_seed.xip
+ [10]: https://download.developer.apple.com/Developer_Tools/Xcode_10/Xcode_10.xip
 
 ### Xcode Command Line Tools
 
