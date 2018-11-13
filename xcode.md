@@ -44,6 +44,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 | [Xcode 10 Beta 3 (10.13-10.14)][10 Beta 3] (10L201y) | `d748ab7852d6b8234e84c70ee0cf52d65ef3b4b0` | Xcode_10_beta_3.xip <!-- 1416227e67f0337517d9845423347422d5963925cc4f458dfc99257cc9a988b3 -->
 | [Xcode 10 Beta 2 (10.13-10.14)][10 Beta 2] (10L177m) | `83f579a70cef52a030ed9673ddd515ae4b15a82a` | Xcode_10_Beta_2.xip <!-- 2d8007ebfe2c581cf1c6c7c20a6bbc1d303691ee440434b11a3e4599a4ee58a2 -->
 | [Xcode 10 Beta (10.13-10.14)][10 Beta] (10L176w) | `baf85968300b1d20421e5341976d397f580290d0` | Xcode_10_Beta.xip <!-- a0215f8416e79596a731d818135caa04a0360007307e5a42ef0c2e023ed80e8d -->
+| [Xcode 9.4.1 (10.13)][9.4.1] (9F2000) | `a038f297206221ec6ebd99c30a0f86e561da22e9` | Xcode_9.4.1.xip <!-- efdd6bf6d6a448fccfe37c3df3155fc4c9f9166de0e19ce1bb33512156a97f9c -->
 | [Xcode 9.4 (10.13)][9.4] (9F1027a) | `17d22ca295922a810ae69b0ae1bab7b1e3304b1d` | Xcode_9.4.xip <!-- 0249db1a18f6b7f5f23477043242e9756249cd354e6d442efc5a2f489448e02b -->
 | [Xcode 9.3.1 (10.13)][9.3.1] (9E501) | `f10bf92c8dfb0dda451688d0335bab0d1cea2ce7` | Xcode_9.3.1.xip <!-- 7e54f742a5c14a06b065e64a68930639519d0abca1703bef216b1ad86534cc18 -->
 | [Xcode 9.3 (10.13)][9.3] (9E145) | `8c054e8b318b9d567177a8c2e230a9a6c7a603a6` | Xcode_9.3.xip <!-- a535251d532bc557b155d81b182d61678fbb4e85a89b5ae74ef0badb968a8006 -->
@@ -169,6 +170,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [9.3]: https://download.developer.apple.com/Developer_Tools/Xcode_9.3/Xcode_9.3.xip
  [9.3.1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.3.1/Xcode_9.3.1.xip
  [9.4]: https://download.developer.apple.com/Developer_Tools/Xcode_9.4/Xcode_9.4.xip
+ [9.4.1]: https://download.developer.apple.com/Developer_Tools/Xcode_9.4.1/Xcode_9.4.1.xip
  [10 Beta]: https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta/Xcode_10_Beta.xip
  [10 Beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta_2/Xcode_10_Beta_2.xip
  [10 Beta 3]: https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_3/Xcode_10_beta_3.xip
