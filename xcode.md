@@ -35,6 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 10.2 (10.14)][10.2] (10E125) | `c4218a7527acd84ab57688308ab33fabd2bb76b2` | Xcode_10.2.xip <!-- 3b7487f3c633a24a9061367eed40bb7b0d60aba67335caa390f5671a1658e6a0 -->
 | [Xcode 10.1 (10.13-10.14)][10.1] (10B61) | `6a6667303750ce9c238da8a4ea76d54eefe2bbc4` | Xcode_10.1.xip <!-- b6eaa0d2b3e863a4a5ff612989c560abb682d08733663e1ab71d513ed3cfb328 -->
 | [Xcode 10 (10.13-10.14)][10] (10A255) | `3fdc772883a5208217bfc27282399b333309e976` | Xcode_10.xip <!-- 6140686b87d1670f9d4a1c840e32aab184c84d7a817ba5a33e0b8e7b7a8ba2d6 -->
 | [Xcode 10 GM seed (10.13-10.14)][10 GM] (10A254a) | `18e7222da6be18112df86cfe34a5e2f7a8ca2e5b` | Xcode_10_GM_seed.xip <!-- 82f6d8ffb58e703ab6ceeb09e41c22162140642336dc8cc225be69a6636a2214 -->
@@ -180,6 +181,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [10 GM]: https://download.developer.apple.com/Developer_Tools/Xcode_10_GM_seed/Xcode_10_GM_seed.xip
  [10]: https://download.developer.apple.com/Developer_Tools/Xcode_10/Xcode_10.xip
  [10.1]: https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip
+ [10.2]: https://download.developer.apple.com/Developer_Tools/Xcode_10.2/Xcode_10.2.xip
 
 ### Xcode Command Line Tools
 
