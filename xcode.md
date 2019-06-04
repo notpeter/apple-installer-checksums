@@ -35,6 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 11 Beta (10.14–10.15)][11 Beta] (11M336w) | `5a1bdd7898ffb69acc76864b69a01404eb522683` | Xcode_11_Beta.xip <!-- 5f73d0b1aa848faa206f9bc5ecb9805982a78adb3ec6d942eef373376377ca38 -->
 | [Xcode 10.2.1 (10.14)][10.2.1] (10E1001) | `e7c9bbaa4b70b6563e893dfa6c6923a9b8a2e60e` | Xcode_10.2.1.xip <!-- 566c3c8abc04b2037ebc6210f0e3c9159e57da845fba854f251790c541e5f681 -->
 | [Xcode 10.2 (10.14)][10.2] (10E125) | `c4218a7527acd84ab57688308ab33fabd2bb76b2` | Xcode_10.2.xip <!-- 3b7487f3c633a24a9061367eed40bb7b0d60aba67335caa390f5671a1658e6a0 -->
 | [Xcode 10.1 (10.13-10.14)][10.1] (10B61) | `6a6667303750ce9c238da8a4ea76d54eefe2bbc4` | Xcode_10.1.xip <!-- b6eaa0d2b3e863a4a5ff612989c560abb682d08733663e1ab71d513ed3cfb328 -->
@@ -184,6 +185,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [10.1]: https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip
  [10.2]: https://download.developer.apple.com/Developer_Tools/Xcode_10.2/Xcode_10.2.xip
  [10.2.1]: https://download.developer.apple.com/Developer_Tools/Xcode_10.2.1/Xcode_10.2.1.xip
+ [11 Beta]: https://download.developer.apple.com/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip
 
 ### Xcode Command Line Tools
 
