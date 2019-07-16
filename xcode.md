@@ -35,7 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
-| [Xcode 11 Beta 3 (10.14–10.15)][11 Beta 3] (11M362v) | `a39d703a28c3af7679c1dfd3f65a18bd4999fed4` | Xcode_11_Beta_2.xip <!-- e4a1914b6ae245ccfa70ebb6491874d51911b15552fc43104eed07ef9910363d -->
+| [Xcode 11 Beta 3 (10.14–10.15)][11 Beta 3] (11M362v) | `a39d703a28c3af7679c1dfd3f65a18bd4999fed4` | Xcode_11_Beta_3.xip <!-- e4a1914b6ae245ccfa70ebb6491874d51911b15552fc43104eed07ef9910363d -->
 | [Xcode 11 Beta 2 (10.14–10.15)][11 Beta 2] (11M337n) | `f8f9583bb83d44c37522f82ef92697fb784e3652` | Xcode_11_Beta_2.xip <!-- f844c0366a06074963c6aa89d3dac6d37902b2acc8bf059e1a689e404a40268b -->
 | [Xcode 11 Beta (10.14–10.15)][11 Beta] (11M336w) | `5a1bdd7898ffb69acc76864b69a01404eb522683` | Xcode_11_Beta.xip <!-- 5f73d0b1aa848faa206f9bc5ecb9805982a78adb3ec6d942eef373376377ca38 -->
 | [Xcode 10.2.1 (10.14)][10.2.1] (10E1001) | `e7c9bbaa4b70b6563e893dfa6c6923a9b8a2e60e` | Xcode_10.2.1.xip <!-- 566c3c8abc04b2037ebc6210f0e3c9159e57da845fba854f251790c541e5f681 -->
