@@ -35,12 +35,19 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 11.2 beta (10.14.4-10.15)][11.2 beta] (11B41) | `c57a2e109cfc651d203b09e4614f8729717767cb` | Xcode_11.2_beta.xip <!-- 6bfe3669f82d5c0f47d1ac96d651cc8f6b0ccab95e92e05715a71da123690020 -->
+| [Xcode 11.1 (10.14.4-10.15)][11.1] (11A1027) | `c370f332d6a65f878b40d1e9d14b9ef8f1b13aae` | Xcode_11.1.xip <!-- 2ee84d982b2eac131e947623045c63eaead5f069a0c2a71d4d0d1eefad973723 -->
+| [Xcode 11.1 GM Seed (10.14.4-10.15)][11.1 GM Seed] (11A1027) | `c370f332d6a65f878b40d1e9d14b9ef8f1b13aae` | Xcode_11.1_GM_Seed.xip <!-- 2ee84d982b2eac131e947623045c63eaead5f069a0c2a71d4d0d1eefad973723 -->
 | [Xcode 11][11] (11A420a) | `56d3480bb706429c4c15e422d65804ad039338bc` | Xcode_11.xip <!-- d80180f4d785ca30908e57cae40f35c3be8b92d04b550ee7000beb75991298d3 -->
+| [Xcode 11 GM Seed (10.14-10.15)][11 GM] (11A419c) | `ec44755a2101dc4c72cc7b35cfb68e2208f7c522` | Xcode_11_GM_Seed.xip <!-- 828b76d03e6f8d4830187fa6f9760f830ec37d6a55977c3769d6c094ecd08678 -->
+| [Xcode 11 Beta 7 (10.14-10.15)][11 Beta 7] (11M392r) | `33eef80728577557f640d7b114864d58ab3b0679` | Xcode_11_Beta_7.xip <!-- 79e448a777cc7c01c984c798c0006ebf71e0a8d45cc8c28bdd5e0d51ba5502bc -->
+| [Xcode 11 Beta 6 (10.14-10.15)][11 Beta 6] (11M392q) | `30c11cf25ff14231e12e0abc117f296dcf8de021` | Xcode_11_Beta_6.xip <!-- 7cf94ef6701be68e82f70830ce6119b39b785f81386fcf9b36f169ed395e8d90 -->
 | [Xcode 11 Beta 5 (10.14–10.15)][11 Beta 5] (11M382q) | `7ce156434cb6dfdb3cf743c843cf9f65c3044487` | Xcode_11_Beta_5.xip <!-- b55810c77109d7ddb62153491c07eaee64e81408a129f3fb4c54d8fc7db4a1c5 -->
 | [Xcode 11 Beta 4 (10.14–10.15)][11 Beta 4] (11M374r) | `0dceb035c3a3258af3fa7b3d08756da2c80f7808` | Xcode_11_Beta_4.xip <!-- 0a57160a29a9fe69e15d50506507ebfda343829665d2cbd10087684b6b20aa72 -->
 | [Xcode 11 Beta 3 (10.14–10.15)][11 Beta 3] (11M362v) | `a39d703a28c3af7679c1dfd3f65a18bd4999fed4` | Xcode_11_Beta_3.xip <!-- e4a1914b6ae245ccfa70ebb6491874d51911b15552fc43104eed07ef9910363d -->
 | [Xcode 11 Beta 2 (10.14–10.15)][11 Beta 2] (11M337n) | `f8f9583bb83d44c37522f82ef92697fb784e3652` | Xcode_11_Beta_2.xip <!-- f844c0366a06074963c6aa89d3dac6d37902b2acc8bf059e1a689e404a40268b -->
 | [Xcode 11 Beta (10.14–10.15)][11 Beta] (11M336w) | `5a1bdd7898ffb69acc76864b69a01404eb522683` | Xcode_11_Beta.xip <!-- 5f73d0b1aa848faa206f9bc5ecb9805982a78adb3ec6d942eef373376377ca38 -->
+| [Xcode 10.3 (10.14)][10.3] (10G8) | `f2bfda702dc977a8646de50ed1bd4c754499f55f` | Xcode_10.3.xip <!-- 07b38b495b65899f6a2b64337a75cbe15c38bfe7c949d719ed12b87b094899ad -->
 | [Xcode 10.2.1 (10.14)][10.2.1] (10E1001) | `e7c9bbaa4b70b6563e893dfa6c6923a9b8a2e60e` | Xcode_10.2.1.xip <!-- 566c3c8abc04b2037ebc6210f0e3c9159e57da845fba854f251790c541e5f681 -->
 | [Xcode 10.2 (10.14)][10.2] (10E125) | `c4218a7527acd84ab57688308ab33fabd2bb76b2` | Xcode_10.2.xip <!-- 3b7487f3c633a24a9061367eed40bb7b0d60aba67335caa390f5671a1658e6a0 -->
 | [Xcode 10.1 (10.13-10.14)][10.1] (10B61) | `6a6667303750ce9c238da8a4ea76d54eefe2bbc4` | Xcode_10.1.xip <!-- b6eaa0d2b3e863a4a5ff612989c560abb682d08733663e1ab71d513ed3cfb328 -->
@@ -190,12 +197,19 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [10.1]: https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip
  [10.2]: https://download.developer.apple.com/Developer_Tools/Xcode_10.2/Xcode_10.2.xip
  [10.2.1]: https://download.developer.apple.com/Developer_Tools/Xcode_10.2.1/Xcode_10.2.1.xip
+ [10.3]: https://download.developer.apple.com/Developer_Tools/Xcode_10.3/Xcode_10.3.xip
  [11 Beta]: https://download.developer.apple.com/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip
  [11 Beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_11_Beta_2/Xcode_11_Beta_2.xip
  [11 Beta 3]: https://download.developer.apple.com/Developer_Tools/Xcode_11_Beta_3/Xcode_11_Beta_3.xip
  [11 Beta 4]: https://download.developer.apple.com/Developer_Tools/Xcode_11_Beta_4/Xcode_11_Beta_4.xip
  [11 Beta 5]: https://download.developer.apple.com/Developer_Tools/Xcode_11_Beta_5/Xcode_11_Beta_5.xip
+ [11 Beta 6]: https://download.developer.apple.com/Developer_Tools/Xcode_11_Beta_6/Xcode_11_Beta_6.xip
+ [11 Beta 7]: https://download.developer.apple.com/Developer_Tools/Xcode_11_Beta_7/Xcode_11_Beta_7.xip
+ [11 GM]: https://download.developer.apple.com/Developer_Tools/Xcode_11_GM_Seed/Xcode_11_GM_Seed.xip
  [11]: https://download.developer.apple.com/Developer_Tools/Xcode_11/Xcode_11.xip
+ [11.1 GM Seed]: https://download.developer.apple.com/Developer_Tools/Xcode_11.1_GM_Seed/Xcode_11.1_GM_Seed.xip
+ [11.1]: https://download.developer.apple.com/Developer_Tools/Xcode_11.1/Xcode_11.1.xip
+ [11.2 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_11.2_beta/Xcode_11.2_beta.xip
 
 ### Xcode Command Line Tools
 
