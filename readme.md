@@ -33,6 +33,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 
 | Version                      | SHA1 Checksum
 | ---------------------        | ------------------------------------------
+| 10.15.1 (19B88) | `f7179a49c4b775800edfdb8b92aaa6cdfd8b20fc` (InstallESD.dmg), `95cc0c151a0e81099c02a8155f19fbf483acc064` (BaseSystem.dmg) <!-- `d3976c4e1aa006f27581ead22357275a85b071e66070bc3ccc5a633b76b9f695` (InstallESD.dmg), `4f06ee218ab3da5df9f6dc98217f0eb28d2c249c49c747f9a36d1b68455e63e0` (BaseSystem.dmg) -->
 | 10.15.0 (19A603) | `5ac1070e34ecc02f66beb03a77198dd0dc3d3377` (InstallESD.dmg), `14909af2c68d42d9a8c393acda76947d9f5e1e73` (BaseSystem.dmg) <!-- `572f8ccc909762f9bc75019fa9729eefc3e2f85834e082aea926b1c7931f729a` (InstallESD.dmg), `1fb14e507672d5aa0d494c9e60d5f0b3af1883df6f7b0e9897b7c03221db26ad` (BaseSystem.dmg) -->
 | 10.15.0 (19A602) | `65aed4389ce4a65d713affef388356d251d9eec3` (InstallESD.dmg), `d20c3734fc5e7b7bbaba023294fb4a0c094a0e21` (BaseSystem.dmg) <!-- `d62588185b524bc27902c6e0348fb36a9c071dc8e45df89caf9a45bc6731492d` (InstallESD.dmg), `02e65b15f6b3b79466eca9c0aba859db0f519c632735be68a8a8df5b3f2aafca` (BaseSystem.dmg) -->
 | 10.15.0 (19A583) | `2faf7d456ce292662a058cb571a520acabe81ce7` (InstallESD.dmg), `e00b9998514f8a81ad490086c26ff9fe8b256d74` (BaseSystem.dmg) <!-- `4409a34604f4443993debccf855b0896e594dc1fa09ebf2d632a7787b0083436` (InstallESD.dmg), `3d5751cbaee09365ff8894cdb0ee48285d44b9f9eae24e39707c465ea5b105e1` (BaseSystem.dmg) -->
