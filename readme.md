@@ -116,6 +116,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 10.10.0 Yosemite             | `eebf02a20ac27665a966957eec6f5e6fe3228a19`
 | 10.9.5 Mavericks (13F34)     | `73cdd9440fe5efa79763f5461ec4ad9a59cdd1df`
 | 10.9.5 Mavericks             | `4a0a01806be8676cb39fb0ab5d049a198d255538`
+| 10.9.1 Mavericks             | `810ea8356323acf710deb0537bfa1c534e4e54dc`  
 | 10.9.0 Mavericks             | `e804dea01e38f8cd28d6c1b1697487e50898dbe7`
 | 10.8.5 Mountain Lion (12F45) | `bd1997666f9786af584bfa0dc1a64d95ab4b42e6`
 | 10.8.5 Mountain Lion         | `7bc54f504aa0b769a2d0b8546393a6e0fc24671f`
