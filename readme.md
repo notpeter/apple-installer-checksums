@@ -33,6 +33,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 
 | Version                      | SHA1 Checksum
 | ---------------------        | ------------------------------------------
+| 10.15.3 (19D76) | `6ac088372d0bf0286d24ce55d9f0eb14a81d91c3` (InstallESD.dmg), `4bd9c601d42186904191f8095b8eca5d70fcf679` (BaseSystem.dmg) <!-- `54bb26608f2916ca73f3482e8f4d5a98fc875d479482293840ec1b7a111c70f6` (InstallESD.dmg), `a92bf99f3461d06f7cd442eec0083cbaf7552c21a3338ed8b1d3b83f6e6aecf8` (BaseSystem.dmg) -->
 | 10.15.2 (19C57) | `061fdbf446e3e237e7cec0ca9dc0ceb8281d4dc9` (InstallESD.dmg), `e259ad7cdf22d834cf420cfa4d569c2667f13a85` (BaseSystem.dmg) <!-- `894535e3a8316c8f098ca9e2381ec6e9fb3da2334307f7bb1ee9a3d884c2c0b8` (InstallESD.dmg), `f48ca4ea9dd73269fe950f7ff5890f54abe02c70039be3c91abce4f3a0b5e3e8` (BaseSystem.dmg) -->
 | 10.15.1 (19B88) | `f7179a49c4b775800edfdb8b92aaa6cdfd8b20fc` (InstallESD.dmg), `95cc0c151a0e81099c02a8155f19fbf483acc064` (BaseSystem.dmg) <!-- `d3976c4e1aa006f27581ead22357275a85b071e66070bc3ccc5a633b76b9f695` (InstallESD.dmg), `4f06ee218ab3da5df9f6dc98217f0eb28d2c249c49c747f9a36d1b68455e63e0` (BaseSystem.dmg) -->
 | 10.15.0 (19A603) | `5ac1070e34ecc02f66beb03a77198dd0dc3d3377` (InstallESD.dmg), `14909af2c68d42d9a8c393acda76947d9f5e1e73` (BaseSystem.dmg) <!-- `572f8ccc909762f9bc75019fa9729eefc3e2f85834e082aea926b1c7931f729a` (InstallESD.dmg), `1fb14e507672d5aa0d494c9e60d5f0b3af1883df6f7b0e9897b7c03221db26ad` (BaseSystem.dmg) -->
@@ -116,7 +117,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 10.10.0 Yosemite             | `eebf02a20ac27665a966957eec6f5e6fe3228a19`
 | 10.9.5 Mavericks (13F34)     | `73cdd9440fe5efa79763f5461ec4ad9a59cdd1df`
 | 10.9.5 Mavericks             | `4a0a01806be8676cb39fb0ab5d049a198d255538`
-| 10.9.1 Mavericks             | `810ea8356323acf710deb0537bfa1c534e4e54dc`  
+| 10.9.1 Mavericks             | `810ea8356323acf710deb0537bfa1c534e4e54dc`
 | 10.9.0 Mavericks             | `e804dea01e38f8cd28d6c1b1697487e50898dbe7`
 | 10.8.5 Mountain Lion (12F45) | `bd1997666f9786af584bfa0dc1a64d95ab4b42e6`
 | 10.8.5 Mountain Lion         | `7bc54f504aa0b769a2d0b8546393a6e0fc24671f`
