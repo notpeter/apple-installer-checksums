@@ -127,6 +127,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 10.7.5 Lion                  | `a044fc01fa75b1f255dbdd6ea4fefa30cef147b0`
 | 10.6.0 Snow Leopard (10A432) | `f8fa177e4be9a69f87be23b83c30e0c8eedacf5b`
 | 10.5.0 Leopard (9A581)       | `67ab755a3604cd767787fed56150bdb566358f69`
+| 10.2.0 Jaguar (6C115)        | `0ca4f8075a108d494adb98dd593c192ec6ba5cf7`
 
 ## How do I help?
 
