@@ -35,6 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 11.4 beta 2 (10.15.2+)][11.4 beta 2] (11N123k) | `a55e450133c2d49e1986f33026768fe8dbb223aa` | Xcode_11.4_beta_2.xip <!-- 0b466ce26b9982c61b1d1650b2ba5d59fc5eed82bb9ccf15c8ce45ab7146848d --> 
 | [Xcode 11.4 beta (10.15.2+)][11.4 beta] (11N111s) | `14e4e508734112a8f582d58651e1b0459bc575ec` | Xcode_11.4_beta.xip <!-- fa9a89b96f8dc489fc8fbb5d39123db8b7290b41f57de88137d5a9783a5f710d -->
 | [Xcode 11.3.1 (10.14.4-10.15)][11.3.1] (11C505) | `d5773e61189595cbb639c3e1c460b38d8c1e19ae` | Xcode_11.3.1.xip <!-- 9a92379b90734a9068832f858d594d3c3a30a7ddc3bdb6da49c738aed9ad34b5 -->
 | [Xcode 11.3 (10.14.4-10.15)][11.3] (11C29) | `7c192e5023cb5d538c601ce301dc69972102d99f` | Xcode_11.3.xip <!-- 8b2e4eab9e676edc64b0336fa429354d618cde63ef679d0d8f7de38a70c802a8 -->
@@ -226,6 +227,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [11.3]: https://download.developer.apple.com/Developer_Tools/Xcode_11.3/Xcode_11.3.xip
  [11.3.1]: https://download.developer.apple.com/Developer_Tools/Xcode_11.3.1/Xcode_11.3.1.xip
  [11.4 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_11.4_beta/Xcode_11.4_beta.xip
+ [11.4 beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_11.4_beta_2/Xcode_11.4_beta_2.xip
 
 ### Xcode Command Line Tools
 
