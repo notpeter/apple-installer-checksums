@@ -35,6 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 11.5 GM Seed (10.15.2+)][11.5 GM Seed] (11E608c) | `4654b261841d0336cb90ea1c82d15fd7aa03c982` | Xcode_11.5_GM_Seed.xip <!-- a5568ae0d30d9d3be94416dbd1aa3a26f23ca5d937c4b9895913cda1b18ceea4 -->
 | [Xcode 11.5 beta 2 (10.15.2+)][11.5 beta 2] (11N605f) | `5c18ee9ecd77439d0981005d6d69ef2ea6894a6c` | Xcode_11.5_beta_2.xip <!-- 160b6263ab08ccaacba62d5dae0540d3757a8b6cbcd2f35f186508713f87bd18 -->
 | [Xcode 11.5 beta (10.15.2+)][11.5 beta] (11N605c) | `65aec9569554c8952bb145f9d33a65895ef1966d` | Xcode_11.5_beta.xip <!-- bd647534d372a329f88c4038d7bf8c372543252eaeba952b11d353c5c5a5d155 -->
 | [Xcode 11.4.1 (10.15.2+)][11.4.1] (11E503a) | `32a106e48c9907cd230d6a27e923e9aaf6685358` | Xcode_11.4.1.xip <!-- cf3d3a625dcae40a93476e2bde382245fce16efb7afa5cd92cdeba0b8a90ae15 -->
@@ -238,6 +239,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [11.4.1]: https://download.developer.apple.com/Developer_Tools/Xcode_11.4.1/Xcode_11.4.1.xip
  [11.5 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_11.5_beta/Xcode_11.5_beta.xip
  [11.5 beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_11.5_beta_2/Xcode_11.5_beta_2.xip
+ [11.5 GM Seed]: https://download.developer.apple.com/Developer_Tools/Xcode_11.5_GM_Seed/Xcode_11.5_GM_Seed.xip
 
 ### Xcode Command Line Tools
 
