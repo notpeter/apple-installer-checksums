@@ -35,6 +35,8 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 12.0 beta 3 (10.15.4+)][12.0 beta 3] (12A8169g) | `f08d4a804cd73ce5a12f93dc61d3132e3d342aa0` | Xcode_12_beta_3.xip <!-- 3a68d4a3e2efac29868426d6ac67d9db4bfe52d4c72ae70af95f55288bbf5606 -->
+| [Xcode 11.6 (10.15.2+)][11.6] (11E708) | `1313680c15af41fa39be95457a13134ec7699ccc` | Xcode_11.6.xip <!-- 7c3991731a3ba891eff9a6143aa034a87342c5a3cdac358455bea21f2e03620d -->
 | [Xcode 12.0 for macOS Universal Apps beta 2 (10.15.4+)][12.0 universal beta 2] (12A8161k) | `c1de0c1f625859d4ce4baba522321afb071c46de` | Xcode_12_for_macOS_Universal_Apps_beta_2.xip <!-- 7d0a73e79d4e5a5119ffcc120f11771234d33b704bf4f115462fc1705b06dc85 -->
 | [Xcode 12.0 beta 2 (10.15.4+)][12.0 beta 2] (12A6163b) | `8a7375ee790bab0c32057727cdd497633d74537e` | Xcode_12_beta_2.xip <!-- 6a597b949d8d9a58535cabe02ad11495339c39d303651af54c46569e6193e6a0 -->
 | [Xcode 12.0 for macOS Universal Apps beta (10.15.4+)][12.0 universal beta] (12A8158a) | `acf85719da17d4190f57cbf7c04653ade5bbeba5` | Xcode_12_for_macOS_Universal_Apps_beta.xip <!-- 0459d45affed8cfda42fcf59f32f7a9a0ce4a57617aa22a3d2f4d91771609b86 -->
@@ -252,6 +254,8 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [12.0 universal beta]: https://download.developer.apple.com/Developer_Tools/Xcode_12_for_macOS_Universal_Apps_beta/Xcode_12_for_macOS_Universal_Apps_beta.xip
  [12.0 beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_2/Xcode_12_beta_2.xip
  [12.0 universal beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_12_for_macOS_Universal_Apps_beta_2/Xcode_12_for_macOS_Universal_Apps_beta_2.xip
+ [11.6]: https://download.developer.apple.com/Developer_Tools/Xcode_11.6/Xcode_11.6.xip
+ [12.0 beta 3]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_3/Xcode_12_beta_3.xip
 
 
 ### Xcode Command Line Tools
