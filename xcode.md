@@ -35,13 +35,14 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 12.0 beta 5 (10.15.4+)][12.0 beta 4] (12A8189h) | `2964368078d0bdf4cf1251ed36f5a5af1139218d` | Xcode_12_beta_5.xip <!-- 7a469eb0a3432bc8fdae9eba29a0d83704538b6e85597f45363929f96680d591 -->
 | [Xcode 12.0 beta 4 (10.15.4+)][12.0 beta 4] (12A8179i) | `f13949dbfff088b6f1ef7a6d9aebb92a25ef6a0c` | Xcode_12_beta_4.xip <!-- f64a2f44b8edb1b2f8455f6cfb17040632c9c6405bfccbe71d62903b1e2e72da -->
 | [Xcode 12.0 beta 3 (10.15.4+)][12.0 beta 3] (12A8169g) | `f08d4a804cd73ce5a12f93dc61d3132e3d342aa0` | Xcode_12_beta_3.xip <!-- 3a68d4a3e2efac29868426d6ac67d9db4bfe52d4c72ae70af95f55288bbf5606 -->
-| [Xcode 11.6 (10.15.2+)][11.6] (11E708) | `1313680c15af41fa39be95457a13134ec7699ccc` | Xcode_11.6.xip <!-- 7c3991731a3ba891eff9a6143aa034a87342c5a3cdac358455bea21f2e03620d -->
 | [Xcode 12.0 for macOS Universal Apps beta 2 (10.15.4+)][12.0 universal beta 2] (12A8161k) | `c1de0c1f625859d4ce4baba522321afb071c46de` | Xcode_12_for_macOS_Universal_Apps_beta_2.xip <!-- 7d0a73e79d4e5a5119ffcc120f11771234d33b704bf4f115462fc1705b06dc85 -->
 | [Xcode 12.0 beta 2 (10.15.4+)][12.0 beta 2] (12A6163b) | `8a7375ee790bab0c32057727cdd497633d74537e` | Xcode_12_beta_2.xip <!-- 6a597b949d8d9a58535cabe02ad11495339c39d303651af54c46569e6193e6a0 -->
 | [Xcode 12.0 for macOS Universal Apps beta (10.15.4+)][12.0 universal beta] (12A8158a) | `acf85719da17d4190f57cbf7c04653ade5bbeba5` | Xcode_12_for_macOS_Universal_Apps_beta.xip <!-- 0459d45affed8cfda42fcf59f32f7a9a0ce4a57617aa22a3d2f4d91771609b86 -->
 | [Xcode 12.0 beta (10.15.4+)][12.0 beta] (12A6159) | `6c9bd8a762ac01d1030f4cc64f25784f787447bd` | Xcode_12_beta.xip <!-- 780c24db76a80d269d36bf508062d398864e606499439a8dd1d6131876c8078e -->
+| [Xcode 11.6 (10.15.2+)][11.6] (11E708) | `1313680c15af41fa39be95457a13134ec7699ccc` | Xcode_11.6.xip <!-- 7c3991731a3ba891eff9a6143aa034a87342c5a3cdac358455bea21f2e03620d -->
 | [Xcode 11.6 beta (10.15.2+)][11.6 beta] (11N700h) | `a65fbe2314b3abff410ea9eaeb02eed055fd55df` | Xcode_11.6_beta.xip <!-- 8880e6833acf67e1637831c0375c332cf4bb5ddc69c78ac57be1ff0efcc6a6ac -->
 | [Xcode 11.5 (10.15.2+)][11.5] (11E608c) | `4654b261841d0336cb90ea1c82d15fd7aa03c982` | Xcode_11.5.xip <!-- a5568ae0d30d9d3be94416dbd1aa3a26f23ca5d937c4b9895913cda1b18ceea4 -->
 | [Xcode 11.5 GM Seed (10.15.2+)][11.5 GM Seed] (11E608c) | `4654b261841d0336cb90ea1c82d15fd7aa03c982` | Xcode_11.5_GM_Seed.xip <!-- a5568ae0d30d9d3be94416dbd1aa3a26f23ca5d937c4b9895913cda1b18ceea4 -->
@@ -251,13 +252,14 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [11.5 GM Seed]: https://download.developer.apple.com/Developer_Tools/Xcode_11.5_GM_Seed/Xcode_11.5_GM_Seed.xip
  [11.5]: https://download.developer.apple.com/Developer_Tools/Xcode_11.5/Xcode_11.5.xip
  [11.6 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_11.6_beta/Xcode_11.6_beta.xip
+ [11.6]: https://download.developer.apple.com/Developer_Tools/Xcode_11.6/Xcode_11.6.xip
  [12.0 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta/Xcode_12_beta.xip
  [12.0 universal beta]: https://download.developer.apple.com/Developer_Tools/Xcode_12_for_macOS_Universal_Apps_beta/Xcode_12_for_macOS_Universal_Apps_beta.xip
  [12.0 beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_2/Xcode_12_beta_2.xip
  [12.0 universal beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_12_for_macOS_Universal_Apps_beta_2/Xcode_12_for_macOS_Universal_Apps_beta_2.xip
- [11.6]: https://download.developer.apple.com/Developer_Tools/Xcode_11.6/Xcode_11.6.xip
  [12.0 beta 3]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_3/Xcode_12_beta_3.xip
  [12.0 beta 4]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_4/Xcode_12_beta_4.xip
+ [12.0 beta 5]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_5/Xcode_12_beta_5.xip
 
 
 ### Xcode Command Line Tools
