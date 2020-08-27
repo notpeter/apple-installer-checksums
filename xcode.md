@@ -35,7 +35,8 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
-| [Xcode 12.0 beta 5 (10.15.4+)][12.0 beta 4] (12A8189h) | `2964368078d0bdf4cf1251ed36f5a5af1139218d` | Xcode_12_beta_5.xip <!-- 7a469eb0a3432bc8fdae9eba29a0d83704538b6e85597f45363929f96680d591 -->
+| [Xcode 12.0 beta 6 (10.15.4+)][12.0 beta 6] (12A8189n) | `c491b29b34c5ca9aa350a72a64e07e634c235618` | Xcode_12_beta_6.xip <!-- f633f0aecf653b91afadb49e0b9ce82ae60d2b4a789815fc414fb09141d3ef87 -->
+| [Xcode 12.0 beta 5 (10.15.4+)][12.0 beta 5] (12A8189h) | `2964368078d0bdf4cf1251ed36f5a5af1139218d` | Xcode_12_beta_5.xip <!-- 7a469eb0a3432bc8fdae9eba29a0d83704538b6e85597f45363929f96680d591 -->
 | [Xcode 12.0 beta 4 (10.15.4+)][12.0 beta 4] (12A8179i) | `f13949dbfff088b6f1ef7a6d9aebb92a25ef6a0c` | Xcode_12_beta_4.xip <!-- f64a2f44b8edb1b2f8455f6cfb17040632c9c6405bfccbe71d62903b1e2e72da -->
 | [Xcode 12.0 beta 3 (10.15.4+)][12.0 beta 3] (12A8169g) | `f08d4a804cd73ce5a12f93dc61d3132e3d342aa0` | Xcode_12_beta_3.xip <!-- 3a68d4a3e2efac29868426d6ac67d9db4bfe52d4c72ae70af95f55288bbf5606 -->
 | [Xcode 12.0 for macOS Universal Apps beta 2 (10.15.4+)][12.0 universal beta 2] (12A8161k) | `c1de0c1f625859d4ce4baba522321afb071c46de` | Xcode_12_for_macOS_Universal_Apps_beta_2.xip <!-- 7d0a73e79d4e5a5119ffcc120f11771234d33b704bf4f115462fc1705b06dc85 -->
@@ -260,6 +261,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [12.0 beta 3]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_3/Xcode_12_beta_3.xip
  [12.0 beta 4]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_4/Xcode_12_beta_4.xip
  [12.0 beta 5]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_5/Xcode_12_beta_5.xip
+ [12.0 beta 6]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_6/Xcode_12_beta_6.xip
 
 
 ### Xcode Command Line Tools
