@@ -43,6 +43,8 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 | [Xcode 12.0 beta 2 (10.15.4+)][12.0 beta 2] (12A6163b) | `8a7375ee790bab0c32057727cdd497633d74537e` | Xcode_12_beta_2.xip <!-- 6a597b949d8d9a58535cabe02ad11495339c39d303651af54c46569e6193e6a0 -->
 | [Xcode 12.0 for macOS Universal Apps beta (10.15.4+)][12.0 universal beta] (12A8158a) | `acf85719da17d4190f57cbf7c04653ade5bbeba5` | Xcode_12_for_macOS_Universal_Apps_beta.xip <!-- 0459d45affed8cfda42fcf59f32f7a9a0ce4a57617aa22a3d2f4d91771609b86 -->
 | [Xcode 12.0 beta (10.15.4+)][12.0 beta] (12A6159) | `6c9bd8a762ac01d1030f4cc64f25784f787447bd` | Xcode_12_beta.xip <!-- 780c24db76a80d269d36bf508062d398864e606499439a8dd1d6131876c8078e -->
+| [Xcode 11.7 (10.15.2+)][11.7] (11E801a) | `6cf1dbd6646d790a99e70501e0c6560f4e0b9f46` | Xcode_11.7.xip <!-- a53fdeab92326cd9bf93a1b5fae01e3d658b04da60dff5de74141caba0808b03 -->
+| [Xcode 11.7 beta (10.15.2+)][11.7 beta] (11E801a) | `6cf1dbd6646d790a99e70501e0c6560f4e0b9f46` | Xcode_11.7_beta.xip <!-- a53fdeab92326cd9bf93a1b5fae01e3d658b04da60dff5de74141caba0808b03 -->
 | [Xcode 11.6 (10.15.2+)][11.6] (11E708) | `1313680c15af41fa39be95457a13134ec7699ccc` | Xcode_11.6.xip <!-- 7c3991731a3ba891eff9a6143aa034a87342c5a3cdac358455bea21f2e03620d -->
 | [Xcode 11.6 beta (10.15.2+)][11.6 beta] (11N700h) | `a65fbe2314b3abff410ea9eaeb02eed055fd55df` | Xcode_11.6_beta.xip <!-- 8880e6833acf67e1637831c0375c332cf4bb5ddc69c78ac57be1ff0efcc6a6ac -->
 | [Xcode 11.5 (10.15.2+)][11.5] (11E608c) | `4654b261841d0336cb90ea1c82d15fd7aa03c982` | Xcode_11.5.xip <!-- a5568ae0d30d9d3be94416dbd1aa3a26f23ca5d937c4b9895913cda1b18ceea4 -->
@@ -254,6 +256,8 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [11.5]: https://download.developer.apple.com/Developer_Tools/Xcode_11.5/Xcode_11.5.xip
  [11.6 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_11.6_beta/Xcode_11.6_beta.xip
  [11.6]: https://download.developer.apple.com/Developer_Tools/Xcode_11.6/Xcode_11.6.xip
+ [11.7 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_11.7_beta/Xcode_11.7_beta.xip
+ [11.7]: https://download.developer.apple.com/Developer_Tools/Xcode_11.7/Xcode_11.7.xip
  [12.0 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta/Xcode_12_beta.xip
  [12.0 universal beta]: https://download.developer.apple.com/Developer_Tools/Xcode_12_for_macOS_Universal_Apps_beta/Xcode_12_for_macOS_Universal_Apps_beta.xip
  [12.0 beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_12_beta_2/Xcode_12_beta_2.xip
