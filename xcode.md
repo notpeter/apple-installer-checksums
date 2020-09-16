@@ -35,7 +35,8 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
-| [Xcode 12.0 GM seed (10.15.4+)][12.0 GM Seed] (12A7209) | `bc0a1341ee36d1b19d4657d4f1d084a7cd282d23` | Xcode_12_GM_seed.xip <!-- 6e7778f6e5f75bef4806eb03b772974d6657bc6d82998c026f440256497c6c35 -->
+| [Xcode 12.0 GM seed (10.15.4+)][12.0 GM Seed] (12A7209) | `1b69c0f8e7b35c1456211143bbb06c671fcfaaec` | Xcode_12_GM_seed.xip <!-- d529ff83be6cfa64723a299bb9f984422e68469d789f99255d40d7bb8ce0c492 -->
+| [Xcode 12.0 GM seed (10.15.4+)][12.0 GM Seed] (12A7208) | `bc0a1341ee36d1b19d4657d4f1d084a7cd282d23` | Xcode_12_GM_seed.xip <!-- 6e7778f6e5f75bef4806eb03b772974d6657bc6d82998c026f440256497c6c35 -->
 | [Xcode 12.0 beta 6 (10.15.4+)][12.0 beta 6] (12A8189n) | `c491b29b34c5ca9aa350a72a64e07e634c235618` | Xcode_12_beta_6.xip <!-- f633f0aecf653b91afadb49e0b9ce82ae60d2b4a789815fc414fb09141d3ef87 -->
 | [Xcode 12.0 beta 5 (10.15.4+)][12.0 beta 5] (12A8189h) | `2964368078d0bdf4cf1251ed36f5a5af1139218d` | Xcode_12_beta_5.xip <!-- 7a469eb0a3432bc8fdae9eba29a0d83704538b6e85597f45363929f96680d591 -->
 | [Xcode 12.0 beta 4 (10.15.4+)][12.0 beta 4] (12A8179i) | `f13949dbfff088b6f1ef7a6d9aebb92a25ef6a0c` | Xcode_12_beta_4.xip <!-- f64a2f44b8edb1b2f8455f6cfb17040632c9c6405bfccbe71d62903b1e2e72da -->
