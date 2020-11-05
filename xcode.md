@@ -35,6 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 12.2 release candidate (10.15.4+)][12.2 RC] (12B5044c) | `a446710258e555978f1bb3e96218a4315509df86` | Xcode_12.2_Release_Candidate.xip <!-- 2b8408fcb45d885c295dcac9ce0c6e7de70c9d84a5966427afb42d9dfc345979 -->
 | [Xcode 12.2 beta 3 (10.15.4+)][12.2 beta 3] (12B5035g) | `39c3d671338bc383a9a4ebb6622146ed932c8493` | Xcode_12.2_beta_3.xip <!-- eaacc93a3207804cabd7b3c54b1cfc36f43462101a942ddd3021cfdd7f3b63de -->
 | [Xcode 12.2 beta 2 (10.15.4+)][12.2 beta 2] (12B5025f) | `3987484df673dc42c6b5b2966acb93d9c61775c7` | Xcode_12.2_beta_2.xip <!-- 304948e6eb18214a167274beed8d7ef53014dc7fec68b5d37766a8d14058c88e -->
 | [Xcode 12.2 beta (10.15.4+)][12.2 beta] (12B5018i) | `de36198422072ebc908cdc111b343a8f10d6e8ea` | Xcode_12.2_beta.xip <!-- 090e607802f9cb195c75d27b4849c1659d52e798643619f9ee847a4629f7f875 -->
@@ -279,6 +280,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [12.2 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_12.2_beta/Xcode_12.2_beta.xip
  [12.2 beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_12.2_beta_2/Xcode_12.2_beta_2.xip
  [12.2 beta 3]: https://download.developer.apple.com/Developer_Tools/Xcode_12.2_beta_3/Xcode_12.2_beta_3.xip
+ [12.2 RC]: https://download.developer.apple.com/Developer_Tools/Xcode_12.2_Release_Candidate/Xcode_12.2_Release_Candidate.xip
 
 ### Xcode Command Line Tools
 
