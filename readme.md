@@ -123,6 +123,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 10.11.6 El Capitan (15G1011) | `6315745c3c86d73f2991076f2e548612f58aceaf`
 | 10.11.6 El Capitan (15G1010) | `c3cdf53048a9a99a1d1355ccef09179a0b6a3dee`
 | 10.11.6 El Capitan (15G31)   | `7739e3f62080000da5d28efa689c53976112a262`
+| 10.11.6 El Capitan (15G5)    | `27a05174a5cc593d5ff6d61822e9e07ba6aa2288`
 | 10.11.5 El Capitan (15F34)   | `850781fe8cb5d88c5d1bc23e704e6686ff1fcc2f`
 | 10.11.4 El Capitan           | `f6292573395b46e8110be6077fd4827409bc948b`
 | 10.11.3 El Capitan           | `e4311d93127d0668372b32e5342f3b455b6bc9bd`
