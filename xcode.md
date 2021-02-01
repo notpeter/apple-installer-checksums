@@ -35,6 +35,8 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 12.4 (10.15.4+)][12.4] (12D4e) | `85d77f3876bd3a955b4422e10d2e9acd9a11f104` | Xcode_12.4.xip <!-- cc8d10155258f9ddaa5e422ab8f50e6058758c95208e58e59b5db1db033ce2ff -->
+| [Xcode 12.3 (10.15.4+)][12.3] (12C33) | `2e06e98d11662abc64b0abe2217c094fd907433f` | Xcode_12.3.xip <!-- edbc45518b6b6f913fe515ce1ba1ace9fcf6c7bcfd6d6ff13fddffa62b95e4a2 -->
 | [Xcode 12.2 (10.15.4+)][12.2] (12B45b) | `6f38028b35828d28ccf8352ce4dff376f8d1132e` | Xcode_12.2.xip <!-- 28d352f8c14a43d9b8a082ac6338dc173cb153f964c6e8fb6ba389e5be528bd0 -->
 | [Xcode 12.2 release candidate (10.15.4+)][12.2 RC] (12B5044c) | `a446710258e555978f1bb3e96218a4315509df86` | Xcode_12.2_Release_Candidate.xip <!-- 2b8408fcb45d885c295dcac9ce0c6e7de70c9d84a5966427afb42d9dfc345979 -->
 | [Xcode 12.2 beta 3 (10.15.4+)][12.2 beta 3] (12B5035g) | `39c3d671338bc383a9a4ebb6622146ed932c8493` | Xcode_12.2_beta_3.xip <!-- eaacc93a3207804cabd7b3c54b1cfc36f43462101a942ddd3021cfdd7f3b63de -->
@@ -283,6 +285,8 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [12.2 beta 3]: https://download.developer.apple.com/Developer_Tools/Xcode_12.2_beta_3/Xcode_12.2_beta_3.xip
  [12.2 RC]: https://download.developer.apple.com/Developer_Tools/Xcode_12.2_Release_Candidate/Xcode_12.2_Release_Candidate.xip
  [12.2]: https://download.developer.apple.com/Developer_Tools/Xcode_12.2/Xcode_12.2.xip
+ [12.3]: https://download.developer.apple.com/Developer_Tools/Xcode_12.3/Xcode_12.3.xip
+ [12.4]: https://download.developer.apple.com/Developer_Tools/Xcode_12.4/Xcode_12.4.xip
 
 ### Xcode Command Line Tools
 
