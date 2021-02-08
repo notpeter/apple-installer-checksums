@@ -149,6 +149,8 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 10.8.2 Mountain Lion         | `eaf54b1b1a630af85547fed8eabbf6fe159f2b42`
 | 10.8.0 Mountain Lion         | `e5dd2bf5560033cade7dd7d7da5ceec49f701b0e`
 | 10.7.5 Lion                  | `a044fc01fa75b1f255dbdd6ea4fefa30cef147b0`
+| 10.7.5 Lion (11G63)          | `3fae5fe16c7dda2c0fcc3afc49ec1724122a9617`  <!-- 990ab8f88c562c364bed37a5dbbcb67b2dcc0126beff8abdde8e22588b7d92a9 -->
+| 10.7.5 Lion (11G63)          | `a044fc01fa75b1f255dbdd6ea4fefa30cef147b0`  <!-- 8b1e83539a588797087b60a8daab3a45b7a86f42402a38d8075ed5b30c04d798 -->
 | 10.6.0 Snow Leopard (10A432) | `f8fa177e4be9a69f87be23b83c30e0c8eedacf5b`
 | 10.5.0 Leopard (9A581)       | `67ab755a3604cd767787fed56150bdb566358f69`
 
