@@ -288,7 +288,6 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [12.2]: https://download.developer.apple.com/Developer_Tools/Xcode_12.2/Xcode_12.2.xip
  [12.3]: https://download.developer.apple.com/Developer_Tools/Xcode_12.3/Xcode_12.3.xip
  [12.4]: https://download.developer.apple.com/Developer_Tools/Xcode_12.4/Xcode_12.4.xip
- [12.5]: https://download.developer.apple.com/Developer_Tools/Xcode_12.5/Xcode_12.5.xip
 
 ### Xcode Command Line Tools
 
