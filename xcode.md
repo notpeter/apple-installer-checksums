@@ -36,6 +36,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
 | [Xcode 13.0 beta 1 (11.3+)][13.0 beta] (13A5154h) | `c57bf73df0c488507c5353b7d7730bf1206529be` | Xcode_13_beta.xip <!-- 1b06a28607b028108b77318f65e32644951568f304a0b4180ca9a6ffb17573be -->
+| [Xcode 12.5.1 (11.0+)][12.5.1] (12E507) | `315560dfcf1a26a71de1d2be22d20fa52bb3848b` | Xcode_12.5.1.xip <!-- 2592bf58e654440b3df7062219dbbd24bdf345fae6ba000756d6d5b1166a7168 -->
 | [Xcode 12.5 (11.0+)][12.5] (12E262) | `4dbc71f78317d8dd4868ce453a22be29d435e6f3` | Xcode_12.5.xip <!-- 6fde48060d67d2838f87b457280a3dce78b1e3e42b58fb5ebc4f6a2ece6cb5dc -->
 | [Xcode 12.4 (10.15.4+)][12.4] (12D4e) | `85d77f3876bd3a955b4422e10d2e9acd9a11f104` | Xcode_12.4.xip <!-- cc8d10155258f9ddaa5e422ab8f50e6058758c95208e58e59b5db1db033ce2ff -->
 | [Xcode 12.3 (10.15.4+)][12.3] (12C33) | `2e06e98d11662abc64b0abe2217c094fd907433f` | Xcode_12.3.xip <!-- edbc45518b6b6f913fe515ce1ba1ace9fcf6c7bcfd6d6ff13fddffa62b95e4a2 -->
@@ -290,6 +291,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [12.3]: https://download.developer.apple.com/Developer_Tools/Xcode_12.3/Xcode_12.3.xip
  [12.4]: https://download.developer.apple.com/Developer_Tools/Xcode_12.4/Xcode_12.4.xip
  [12.5]: https://download.developer.apple.com/Developer_Tools/Xcode_12.5/Xcode_12.5.xip
+ [12.5.1]: https://download.developer.apple.com/Developer_Tools/Xcode_12.5.1/Xcode_12.5.1.xip
  [13.0 beta]: https://download.developer.apple.com/Developer_Tools/Xcode_13_beta/Xcode_13_beta.xip
 
 ### Xcode Command Line Tools
