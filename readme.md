@@ -33,7 +33,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 
 | Version                      | SHA1 Checksum
 | ---------------------        | ------------------------------------------
-| 12.0db8 (21A5543b) | `f1b0d3ab32d6fb31cf07a9d9ec43114c138d4def` (SharedSupport.dmg) <!-- `a84ccad55c9a0c574f2b4bdbc635b29643a9050cf903a13af21e97e4f4fcb9f5` (SharedSupport.dmg) -->
+| 12.0db9 (21A5543b) | `f1b0d3ab32d6fb31cf07a9d9ec43114c138d4def` (SharedSupport.dmg) <!-- `a84ccad55c9a0c574f2b4bdbc635b29643a9050cf903a13af21e97e4f4fcb9f5` (SharedSupport.dmg) -->
 | 12.0db8 (21A5534d) | `c10f3554835c56d86585fd351081a2773e3af9bd` (SharedSupport.dmg) <!-- `f0b191b4e180a90815021531b7a76650e4d8f57db2f54129426b1ff9fd03883b` (SharedSupport.dmg) -->
 | 12.0db7 (21A5522h) | `273401148318acadb95349f9caf6b5ef619c3579` (SharedSupport.dmg) <!-- `371f2afda435b03e945cc91fc0fb48a330a32045ed9bd267bf8d49660589705d` (SharedSupport.dmg) -->
 | 12.0db6 (21A5506j) | `04714cbfb255f7f37a440269f3dc240b41db55ae` (SharedSupport.dmg) <!-- `629b627829fb07f1e3f92225faf1fcfebd1b992c8788d6cd1fa9ef30ebede71d` (SharedSupport.dmg) -->
