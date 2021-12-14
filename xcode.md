@@ -35,6 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 13.0 (11.3+)][13.0] (13A233) | `424EA14D86899290722906B3790AF37CE9EEA606` | Xcode_13.xip <!-- 1d8257750a4e0333a2b372b32381be5ec9b29704c8a0d44ce2e6d26d1cf4301e -->
 | [Xcode 13.0 beta 5 (11.3+)][13.0 beta 5] (13A5212g) | `1d01ddcfa634c5ef2d858c1b3284e42cd9c928b7` | Xcode_13_beta_5.xip <!-- 4280d5cc663931b928c8db18e5c478ee86c5e4f083347ef4021d9f88de7cd74d -->
 | [Xcode 13.0 beta 3 (11.3+)][13.0 beta 3] (13A5192i) | `8c1f13f2d76b4beb153b85670dde49640dc08c30` | Xcode_13_beta_3.xip <!-- fa8d3abab980f92244e1b7a943c84cbc485b2b35e128273b9635442194b76e18 -->
 | [Xcode 13.0 beta 2 (11.3+)][13.0 beta 2] (13A5155e) | `4bb6141976252823b170e0869adbf0ed817b7e42` | Xcode_13_beta_2.xip <!-- 66bc7f207c2b3b2a8e50d5587f4f0ca44174041b48b5a29ffcc9fc70c3012faa -->
