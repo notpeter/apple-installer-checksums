@@ -35,6 +35,9 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 13.2 (11.3+)][13.2] (13C90) | `1e6bffb5623a56d33982f101520cde0a093d9f85` | Xcode_13.2.xip <!-- 76dbd4cabb9e33e3de7dfa9259e7476567ff2ded5485477dd96efdfb6482c39e -->
+| [Xcode 13.1 (11.3+)][13.1] (13A1030d) | `b55777d005c7774e4756f29d875d241db1769d90` | Xcode_13.1.xip <!-- 4efdeea0eeeda1957bb394128cccd1daac3cb0a3d074224e0fab90855cca09c4 -->
+| [Xcode 13.0 (11.3+)][13.0] (13A233) | `424ea14d86899290722906b3790af37ce9eea606` | Xcode_13.0.xip <!-- 1d8257750a4e0333a2b372b32381be5ec9b29704c8a0d44ce2e6d26d1cf4301e -->
 | [Xcode 13.0 beta 5 (11.3+)][13.0 beta 5] (13A5212g) | `1d01ddcfa634c5ef2d858c1b3284e42cd9c928b7` | Xcode_13_beta_5.xip <!-- 4280d5cc663931b928c8db18e5c478ee86c5e4f083347ef4021d9f88de7cd74d -->
 | [Xcode 13.0 beta 3 (11.3+)][13.0 beta 3] (13A5192i) | `8c1f13f2d76b4beb153b85670dde49640dc08c30` | Xcode_13_beta_3.xip <!-- fa8d3abab980f92244e1b7a943c84cbc485b2b35e128273b9635442194b76e18 -->
 | [Xcode 13.0 beta 2 (11.3+)][13.0 beta 2] (13A5155e) | `4bb6141976252823b170e0869adbf0ed817b7e42` | Xcode_13_beta_2.xip <!-- 66bc7f207c2b3b2a8e50d5587f4f0ca44174041b48b5a29ffcc9fc70c3012faa -->
@@ -299,6 +302,9 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [13.0 beta 2]: https://download.developer.apple.com/Developer_Tools/Xcode_13_beta_2/Xcode_13_beta_2.xip
  [13.0 beta 3]: https://download.developer.apple.com/Developer_Tools/Xcode_13_beta_3/Xcode_13_beta_3.xip
  [13.0 beta 5]: https://download.developer.apple.com/Developer_Tools/Xcode_13_beta_5/Xcode_13_beta_5.xip
+ [13.0]: https://download.developer.apple.com/Developer_Tools/Xcode_13.0/Xcode_13.0.xip
+ [13.1]: https://download.developer.apple.com/Developer_Tools/Xcode_13.1/Xcode_13.1.xip
+ [13.2]: https://download.developer.apple.com/Developer_Tools/Xcode_13.2/Xcode_13.2.xip
 
 ### Xcode Command Line Tools
 
