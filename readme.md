@@ -33,6 +33,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 
 | Version                      | SHA1 Checksum
 | ---------------------        | ------------------------------------------
+| 12.2 (21D49) | `0868df4ec557744f4e292bda41d2a070a0f86b03` (SharedSupport.dmg) <!-- `f6e92bb78add881260b82b095518c584e3ca9c5a2fe4a041a2ff527aabd0e9fa` (SharedSupport.dmg) -->
 | 12.1 (21C52) | `94cdcf9e007ebf297f3a3369b4d38ad49ccce2e6` (SharedSupport.dmg) <!-- `8a14293807d4868c5ce945291df8755e336bc411da28200b2e071ba95e203f0b` (SharedSupport.dmg) -->
 | 12.0.1 (21A559) | `c33afa5bffc65afbc104e63f9542a20d1179b297` (SharedSupport.dmg) <!-- `9630e14e5142937a08bc01dea96fead4477e5722fa8390d712ecae318acaf476` (SharedSupport.dmg) -->
 | 12.0db10 (21A5552a) | `62db2b878268345425ae47117e1fbfd593c82aa5` (SharedSupport.dmg) <!-- `89fb37082b77555889b2be2fef4ba6cf363e894ec097f415552ee2441a33a69b` (SharedSupport.dmg) -->
