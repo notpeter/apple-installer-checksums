@@ -47,6 +47,9 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 12.0db3 (21A5284e) | `855557addfd1e19bbe92f267eb79cb4950796978` (SharedSupport.dmg) <!-- `033a584dd80fd5260edbe4c18fe023a47aa2296096024f3b3dae36215b4c363c` (SharedSupport.dmg) -->
 | 12.0db2 (21A5268h) | `b4d5569166e14a72005a28c9f4ed498abcc7e3fc` (SharedSupport.dmg) <!-- `898c99207edf596577e79adc2a74f5d9f301a0fb6cdedd315da7e47ea27e839c` (SharedSupport.dmg) -->
 | 12.0db1 (21A5248p) | `59368591d51bdf20189b7d4fc443d9cd42a81df4` (SharedSupport.dmg) <!-- `7b4d998a997c6fd33a8d03d16b77743d5496ab9aeca81bbe14e8aaebc4abcf3f` (SharedSupport.dmg) -->
+| 11.6.4 (20G417) | `b2a59f05b440d3209aee021ff6369042d7da2904` (SharedSupport.dmg) <!-- `91f3b15c2d6ba7be6bac181632be0a3877fbaed18ae0225f07225da83244c147` (SharedSupport.dmg) -->
+| 11.6.3 (20G415) | `ce14d0775db2558fae12fb021c73547b5bc46f81` (SharedSupport.dmg) <!-- `f714d39c42ab34eb19917e23f9bee28e98cc728fc7c120f3b896fa56d6ad9a6a` (SharedSupport.dmg) -->
+| 11.6.2 (20G314) | `e824a45e25ed45d1754f4b7ee7196ed67d21b42d` (SharedSupport.dmg) <!-- `6f5da7747fbb7065332d5ae76ef6bb3e0985fc1a36515fd8828eb3599a9d9234` (SharedSupport.dmg) -->
 | 11.6.1 (20G224) | `5cfddc509dfe11902a130bbeadd934fd696b5774` (SharedSupport.dmg) <!-- `99c77e451667bb8309c0fac2696979410e2f6aad97d46e20c33054955ac64fa2` (SharedSupport.dmg) -->
 | 11.6 (20G165) | `2e89d67ebb02d1c655dfb875144e2c15bd6fa726` (SharedSupport.dmg) <!-- `6142d4200f415d1253c437bdfcc7911bfb568ed16de1f0350bbc76299940647a` (SharedSupport.dmg) -->
 | 11.5.2 (20G95) | `d96580812c030f04afd155042bdf90fe844513d4` (SharedSupport.dmg) <!-- `57df690f7981706f0620cbcac678735f559e032aed26a7d4a3d611492de889ab` (SharedSupport.dmg) -->
