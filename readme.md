@@ -33,6 +33,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 
 | Version                      | SHA1 Checksum
 | ---------------------        | ------------------------------------------
+| 12.3 (21E230) | `dcebd74deaf7e60e5efb0fa24797daf37910ba54` (SharedSupport.dmg) <!-- `89a287cd36306134789e1646a4ab3dad11b912ab6925015b65806df13b568ce6` (SharedSupport.dmg) -->
 | 12.2.1 (21D62) | `42f232e76ffe1707ff0c8c2f2985054485c4aa77` (SharedSupport.dmg) <!-- `f9402e572735ef1614b4add2fb19dccc8eb644f9f50b9ab633032fa3907e18e3` (SharedSupport.dmg) -->
 | 12.2 (21D49) | `0868df4ec557744f4e292bda41d2a070a0f86b03` (SharedSupport.dmg) <!-- `f6e92bb78add881260b82b095518c584e3ca9c5a2fe4a041a2ff527aabd0e9fa` (SharedSupport.dmg) -->
 | 12.1 (21C52) | `94cdcf9e007ebf297f3a3369b4d38ad49ccce2e6` (SharedSupport.dmg) <!-- `8a14293807d4868c5ce945291df8755e336bc411da28200b2e071ba95e203f0b` (SharedSupport.dmg) -->
@@ -47,6 +48,7 @@ Get-FileHash -Algorithm SHA1 InstallESD.dmg
 | 12.0db3 (21A5284e) | `855557addfd1e19bbe92f267eb79cb4950796978` (SharedSupport.dmg) <!-- `033a584dd80fd5260edbe4c18fe023a47aa2296096024f3b3dae36215b4c363c` (SharedSupport.dmg) -->
 | 12.0db2 (21A5268h) | `b4d5569166e14a72005a28c9f4ed498abcc7e3fc` (SharedSupport.dmg) <!-- `898c99207edf596577e79adc2a74f5d9f301a0fb6cdedd315da7e47ea27e839c` (SharedSupport.dmg) -->
 | 12.0db1 (21A5248p) | `59368591d51bdf20189b7d4fc443d9cd42a81df4` (SharedSupport.dmg) <!-- `7b4d998a997c6fd33a8d03d16b77743d5496ab9aeca81bbe14e8aaebc4abcf3f` (SharedSupport.dmg) -->
+| 11.6.5 (20G527) | `5d8da848fff077db23642eb9623a37a40a6322ca` (SharedSupport.dmg) <!-- `dee8b604e1ef66f4385fa03cb57d29cbc7efef6c1e7f8740aefd37a268c2bb16` (SharedSupport.dmg) -->
 | 11.6.4 (20G417) | `b2a59f05b440d3209aee021ff6369042d7da2904` (SharedSupport.dmg) <!-- `91f3b15c2d6ba7be6bac181632be0a3877fbaed18ae0225f07225da83244c147` (SharedSupport.dmg) -->
 | 11.6.3 (20G415) | `ce14d0775db2558fae12fb021c73547b5bc46f81` (SharedSupport.dmg) <!-- `f714d39c42ab34eb19917e23f9bee28e98cc728fc7c120f3b896fa56d6ad9a6a` (SharedSupport.dmg) -->
 | 11.6.2 (20G314) | `e824a45e25ed45d1754f4b7ee7196ed67d21b42d` (SharedSupport.dmg) <!-- `6f5da7747fbb7065332d5ae76ef6bb3e0985fc1a36515fd8828eb3599a9d9234` (SharedSupport.dmg) -->
