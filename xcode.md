@@ -35,6 +35,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 13.4.1 (12.0+)][13.4.1] (13F100) | `40e8628555b6231b361471183f3ce17b378036fd` | Xcode_13.4.1.xip <!-- a1e0dbd6d5a96c4a6d3d63600b58486759aa836c2d9f7e8fa6d7da4c7399638b -->
 | [Xcode 13.4 (12.0+)][13.4] (13F17a) | `d71192968cf948eaefeec25c4e05576c2f4d5217` | Xcode_13.4.xip <!-- 2fa0699ebc145300e1d0beeafb5bba45482f987982f4a1d15317e43f973c613e -->
 | [Xcode 13.3.1 (12.0+)][13.3.1] (13E500a) | `0b01c5a2dd692cd6dbdd47d78bb2deb483b1d2f8` | Xcode_13.3.1.xip <!-- d10b4644db84ba43f7b18ce94fb3ca1acd255d39781f4af8fc88bd8581e08f97 -->
 | [Xcode 13.3 (12.0+)][13.3] (13E113) | `4bb7ffed9abd20ab3e5376122341e0d0e4ea6a92` | Xcode_13.3.xip <!-- dc5fd115b0e122427e2a82b3fbd715c3aee49ef76a64c4d1c59a787ce17a611b -->
@@ -313,6 +314,7 @@ Got access to old versions of Apple installers you know are legit? Submit some h
  [13.3]: https://download.developer.apple.com/Developer_Tools/Xcode_13.3/Xcode_13.3.xip
  [13.3.1]: https://download.developer.apple.com/Developer_Tools/Xcode_13.3.1/Xcode_13.3.1.xip
  [13.4]: https://download.developer.apple.com/Developer_Tools/Xcode_13.4/Xcode_13.4.xip
+ [13.4.1]: https://download.developer.apple.com/Developer_Tools/Xcode_13.4.1/Xcode_13.4.1.xip
 
 
 ### Xcode Command Line Tools
