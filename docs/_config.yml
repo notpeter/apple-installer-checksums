@@ -12,19 +12,19 @@ github_username:  notpeter/apple-installer-checksums
 github_project: apple-installer-checksums
 
 # Build settings
-markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed           #figure out how to remove this.
   - jekyll-relative-links
+  - jekyll-toc
 exclude:
   - Gemfile
   - Gemfile.lock
   - readme.md
 # This is not a jekyll thing, it's just a hard coded array
 anchors:
+  - {url: '/', title: 'Mac OS X'}
+  - {url: '#mac-osx-installers-sha1-checksums', title: 'Verify'}
+  - {url: '/xcode', title: 'XCode'}
   - {url: '#about', title: 'About'}
-  - {url: '#macosx', title: 'Mac OS X'}
-  - {url: '#verify', title: 'Verify'}
-  - {url: '#xcode', title: 'XCode'}
   - {url: '#contribute', title: 'Contribute'}
