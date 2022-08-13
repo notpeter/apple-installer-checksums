@@ -35,6 +35,8 @@ Got access to old versions of Apple installers you know are legit? Submit some h
 
 | Version                           | SHA1 Checksum                              | Filename                          |
 | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Xcode 14.0 beta 5 (12.4+)][14.0 beta 5] (14A5294e) | `dbdd135f8cc8b9af1080dcbed3eddccc073f9e34` | Xcode_14_beta_5.xip <!-- 10f3ccfa2e94f56c09746f5c1682aba6f1f4001469520fc60e29ef1c88a71960 -->
+| [Xcode 14.0 beta 4 (12.4+)][14.0 beta 4] (14A5284g) | `0f86c42dfd73fab007b487884c884adf0403039e` | Xcode_14_beta_4.xip <!-- 529c3f19b04b532b70e5c63f4a8c549761b6acf368e5ee1e8e0d0f64f77a0e0e -->
 | [Xcode 14.0 beta (12.4+)][14.0 beta] (14A5228q) | `f3744a0026a801a7f35d23dabc0b01d6f51d7d14` | Xcode_14_beta.xip <!-- db2df2ac59cc405ed5147c5b87d01833dfe48775f95ba324c113df0974dd1b2c -->
 | [Xcode 13.4.1 (12.0+)][13.4.1] (13F100) | `40e8628555b6231b361471183f3ce17b378036fd` | Xcode_13.4.1.xip <!-- a1e0dbd6d5a96c4a6d3d63600b58486759aa836c2d9f7e8fa6d7da4c7399638b -->
 | [Xcode 13.4 (12.0+)][13.4] (13F17a) | `d71192968cf948eaefeec25c4e05576c2f4d5217` | Xcode_13.4.xip <!-- 2fa0699ebc145300e1d0beeafb5bba45482f987982f4a1d15317e43f973c613e -->
