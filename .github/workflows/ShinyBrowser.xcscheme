@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Scheme LastUpgradeVersion="1100" version="1.3">
+	<AnalyzeAction buildConfiguration="Debug" />
+	<ArchiveAction revealArchiveInOrganizer="YES" buildConfiguration="Release" />
+	<TestAction selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" codeCoverageEnabled="NO" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" shouldUseLaunchSchemeArgsEnv="YES" buildConfiguration="Debug">
+		<Testables />
+		<MacroExpansion>
+			<BuildableReference ReferencedContainer="container:ShinyBrowser.xcodeproj" BuildableIdentifier="primary" BuildableName="ShinyBrowser.app" BlueprintIdentifier="F425A95F226D217D00CCEAA5" BlueprintName="ShinyBrowser" />
+		</MacroExpansion>
+	</TestAction>
+	<ProfileAction buildConfiguration="Release" savedToolIdentifier="" debugDocumentVersioning="YES" shouldUseLaunchSchemeArgsEnv="YES" useCustomWorkingDirectory="NO">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="F425A95F226D217D00CCEAA5" BuildableName="ShinyBrowser.app" BlueprintName="ShinyBrowser" ReferencedContainer="container:ShinyBrowser.xcodeproj" />
+		</BuildableProductRunnable>
+	</ProfileAction>
+	<BuildAction buildImplicitDependencies="YES" parallelizeBuildables="YES">
+		<BuildActionEntries>
+			<BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+				<BuildableReference BuildableName="ShinyBrowser.app" ReferencedContainer="container:ShinyBrowser.xcodeproj" BlueprintName="ShinyBrowser" BlueprintIdentifier="F425A95F226D217D00CCEAA5" BuildableIdentifier="primary" />
+			</BuildActionEntry>
+		</BuildActionEntries>
+	</BuildAction>
+	<LaunchAction useCustomWorkingDirectory="NO" ignoresPersistentStateOnLaunch="NO" debugServiceExtension="internal" launchStyle="0" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" debugDocumentVersioning="YES" allowLocationSimulation="YES" buildConfiguration="Debug" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB">
+		<BuildableProductRunnable runnableDebuggingMode="0">
+			<BuildableReference BlueprintName="ShinyBrowser" BlueprintIdentifier="F425A95F226D217D00CCEAA5" BuildableName="ShinyBrowser.app" ReferencedContainer="container:ShinyBrowser.xcodeproj" BuildableIdentifier="primary" />
+		</BuildableProductRunnable>
+	</LaunchAction>
+</Scheme>
